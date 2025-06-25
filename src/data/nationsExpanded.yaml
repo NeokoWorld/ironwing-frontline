@@ -1,0 +1,353 @@
+nations:
+  - name: "Royaume de Doria"
+    continent: "Alydent"
+    categorie: "Grande Puissance"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/doria.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Monarchie parlementaire"
+    militaire: "Spécialisée dans l'anti-drone et les avions VTOL. Rôle d'arbitre diplomatique."
+    relations:
+      - "Allié de Yser"
+      - "Influence sur Gathersted"
+    histoire: "À compléter"
+    description: |
+      Profondément anti-drone ou UCAV. Investit beaucoup dans des chasseurs spécialisés pour abattre des drones.
+      Très doué en VTOL. Garde une politique qui se veut neutre et d’arbitre.
+      Historiquement, les conflits qui n’impliquent pas Doria voient leurs traités être signés à Doria.
+
+  - name: "Royaume d’Yser"
+    continent: "Alydent"
+    categorie: "Nation Majeure"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/yser.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Monarchie constitutionnelle"
+    militaire: "Puissante flotte aéronavale, très peu de production d’avions propres."
+    relations:
+      - "Allié de Doria"
+      - "Fournisseur principal : Doria, Solana"
+    histoire: "À compléter"
+    description: |
+      Allié de Doria. Ils misent beaucoup sur l’aéronaval, étant le pays avec le plus de porte-avions.
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria et Solana.
+
+  - name: "Chancellerie de Gathersted"
+    continent: "Alydent"
+    categorie: "Nation Mineure"
+    bloc: ""
+    drapeau: "/assets/flags/gathersted.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Chancellerie"
+    militaire: "Pas de production aérienne, achats chez Doria."
+    relations:
+      - "Allié de Doria et Yser"
+    histoire: "À compléter"
+    description: |
+      Allié de Doria et Yser. Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria.
+
+  - name: "République de Solana"
+    continent: "Meridiona"
+    categorie: "Grande Puissance"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/solana.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "République technocratique"
+    militaire: "Avions expérimentaux, recherche avancée, peu de production massive."
+    relations:
+      - "Leader technologique du Pacte de l’Égide"
+      - "Alliés : Cevenn, Albro, Briden"
+    histoire: "À compléter"
+    description: |
+      Possède les Iles Solaires, un archipel dont la roche détient une forte dose d’énergie.
+      Un seul morceau peut suffire à alimenter une ville pendant 3 ans.
+      Très orientée vers la qualité, la recherche et les découvertes aéronautiques.
+
+  - name: "Grand Duché de Cevenn"
+    continent: "Meridiona"
+    categorie: "Nation Majeure"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/cevenn.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Duché"
+    militaire: "Pas de production aérienne, achète chez Doria et Solana."
+    relations:
+      - "Allié historique de Solana"
+    histoire: "À compléter"
+    description: |
+      Allié historique de Solana. Ils préfèrent garder de bonnes relations afin de pouvoir avoir accès à leur marché.
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria et Solana.
+
+  - name: "Grand Duché d’Albro"
+    continent: "Meridiona"
+    categorie: "Nation Mineure"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/albro.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Duché"
+    militaire: "Pas de production aérienne, achète chez Solana."
+    relations:
+      - "Allié de Solana"
+    histoire: "À compléter"
+    description: |
+      Allié de Solana. Ils ne produisent pas d’avions eux-mêmes et achètent chez Solana.
+
+  - name: "République de Briden"
+    continent: "Meridiona"
+    categorie: "Nation Mineure"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/briden.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "République"
+    militaire: "Pas de production aérienne, achète chez Solana."
+    relations:
+      - "Allié de Solana"
+    histoire: "À compléter"
+    description: |
+      Allié de Solana. Ils ne produisent pas d’avions eux-mêmes et achètent chez Solana.
+
+  - name: "Kirev"
+    continent: "Meridiona"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Azurien"
+    drapeau: "/assets/flags/kirev.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Dictature impérialiste"
+    militaire: "Pas de production aérienne, achète chez Azura."
+    relations:
+      - "Vassale d’Azura"
+    histoire: "À compléter"
+    description: |
+      Dictature impérialiste vassale d’Azura. Ils ne produisent pas d’avions eux-mêmes et achètent chez Azura.
+
+  - name: "Territoire Libre de Nemea"
+    continent: "Meridiona"
+    categorie: "Nation Mineure"
+    bloc: ""
+    drapeau: "/assets/flags/nemea.png"
+    capitale: "—"
+    population: "À compléter"
+    gouvernement: "Zone non gouvernée"
+    militaire: "Aucun; base du groupe terroriste Chimère."
+    relations:
+      - "Considéré terroriste par la majorité sauf Doria et Isorum"
+    histoire: "À compléter"
+    description: |
+      Île polaire hors gouvernements qui n’intéresse personne par manque de ressources pertinentes.
+      Base d’un groupe terroriste, Chimère, actif uniquement lors des guerres.
+      Ne produit pas d’avions eux-mêmes et vole parfois des avions.
+
+  - name: "République d’Argellis"
+    continent: "Nordine"
+    categorie: "Nation Mineure"
+    bloc: "Pacte de l’Égide"
+    drapeau: "/assets/flags/argellis.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "République"
+    militaire: "Pas de production aérienne, achète chez Doria et Solana."
+    relations:
+      - ""
+    histoire: "À compléter"
+    description: |
+      Territoire aux ressources souterraines très abondantes.
+      Ne produit pas d’avions eux-mêmes et achète chez Doria et Solana.
+
+  - name: "Chancellerie d’Arkhellia"
+    continent: "Nordine"
+    categorie: "Nation Mineure"
+    bloc: ""
+    drapeau: "/assets/flags/arkhellia.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Chancellerie"
+    militaire: "Pas de production aérienne, achète chez le moins cher."
+    relations:
+      - ""
+    histoire: "À compléter"
+    description: |
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez le moins cher.
+
+  - name: "Fédération de Talan"
+    continent: "Esterient"
+    categorie: "Grande Puissance"
+    bloc: "Bloc Talanais"
+    drapeau: "/assets/flags/talan.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Fédération"
+    militaire: "Seule nation produisant et utilisant encore des bombardiers classiques."
+    relations:
+      - "Alliés du Bloc Talanais"
+    histoire: "À compléter"
+    description: |
+      Seule nation produisant et utilisant encore des bombardiers là où tout le monde préfère utiliser des jets Air-Sol ou Air-Air/Sol.
+      Ses alliés achètent parfois quelques bombardiers si la situation le nécessite.
+
+  - name: "Empire d’Azura"
+    continent: "Esterient"
+    categorie: "Grande Puissance"
+    bloc: "Bloc Azurien"
+    drapeau: "/assets/flags/azura.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Empire autoritaire"
+    militaire: "Force massive, automatisée, doctrine de guerre par surcharge."
+    relations:
+      - "Dirige le Bloc Azurien"
+    histoire: "À compléter"
+    description: |
+      Investit fortement dans l’automatisation des armements et de la guerre.
+      Réputé pour toujours trouver une raison de blâmer les autres.
+      Doctrine de la guerre par surcharge et de masse.
+
+  - name: "Union de Jespia"
+    continent: "Esterient"
+    categorie: "Nation Majeure"
+    bloc: ""
+    drapeau: "/assets/flags/jespia.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Union"
+    militaire: "Flotte navale puissante, incompétence aéronautique."
+    relations:
+      - "Achète ses avions chez Azura"
+    histoire: "À compléter"
+    description: |
+      Avioniquement incompétents, ils compensent par une flotte navale destructrice.
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez Azura.
+
+  - name: "Royaume de Zakess"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Talanais"
+    drapeau: "/assets/flags/zakess.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Monarchie"
+    militaire: "Pas de production aérienne, achète chez Talan."
+    relations:
+      - "Allié de Talan"
+    histoire: "À compléter"
+    description: |
+      Allié de Talan. Ils ne produisent pas d’avions eux-mêmes et achètent chez Talan.
+
+  - name: "Empire d’Okharen"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Talanais"
+    drapeau: "/assets/flags/okharen.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Empire"
+    militaire: "Pas de production aérienne, achète chez Talan."
+    relations:
+      - "Allié de Talan"
+    histoire: "À compléter"
+    description: |
+      Allié de Talan. Ils ne produisent pas d’avions eux-mêmes et achètent chez Talan.
+
+  - name: "Duché d’Andeigen"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Talanais"
+    drapeau: "/assets/flags/andeigen.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Duché"
+    militaire: "Pas de production aérienne, achète chez Talan."
+    relations:
+      - ""
+    histoire: "À compléter"
+    description: |
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez Talan.
+
+  - name: "Royaume de Konradia"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Azurien"
+    drapeau: "/assets/flags/konradia.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Monarchie"
+    militaire: "Pas de production aérienne, achète chez Azura."
+    relations:
+      - "Allié historique d’Azura"
+    histoire: "À compléter"
+    description: |
+      Allié historique d’Azura. En déclin depuis quelques temps.
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez Azura.
+
+  - name: "Duché d’Ansium"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Azurien"
+    drapeau: "/assets/flags/ansium.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Duché"
+    militaire: "Pas de production aérienne, achète chez Azura."
+    relations:
+      - "Soutenu indirectement par Azura"
+    histoire: "À compléter"
+    description: |
+      Très souvent en guerre civile mais ne s’est jamais effondré malgré tout.
+      Stabilité fortement supportée, sans être allié, par Azura.
+      Ils ne produisent pas d’avions eux-mêmes et achètent chez Azura.
+
+  - name: "Fédération de Cania"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: "Bloc Azurien"
+    drapeau: "/assets/flags/cania.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Fédération"
+    militaire: "Pas de production aérienne, achète chez Azura."
+    relations:
+      - ""
+    histoire: "À compléter"
+    description: |
+      Ne produit pas d’avions eux-mêmes et achète chez Azura.
+
+  - name: "Confédération de Sylvaria"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: ""
+    drapeau: "/assets/flags/sylvaria.png"
+    capitale: "À compléter"
+    population: "À compléter"
+    gouvernement: "Confédération"
+    militaire: "Pas d’aviation officielle, présence de mercenaires aéronautiques non gouvernementaux."
+    relations:
+      - "Ne s’implique pas politiquement dans les conflits depuis environ 300 ans"
+    histoire: "À compléter"
+    description: |
+      Ne s’est impliquée, même pas politiquement, dans aucun conflit depuis environs 300 ans.
+      Considérée comme passive et presque inexistante par beaucoup de pays.
+      Ne produit pas d’avions eux-mêmes et n’a pas d’aviation officielle, mais beaucoup de mercenaires non gouvernementaux très doués avec un avion.
+
+  - name: "Duché d’Isorum"
+    continent: "Esterient"
+    categorie: "Nation Mineure"
+    bloc: ""
+    drapeau: "/assets/flags/isorum.png"
+    capitale: "À compléter"
+    gouvernement: "Duché"
+    militaire: "Produit beaucoup d’armements et les revend; pas de production aérienne propre."
+    relations:
+      - "Achète ses avions chez le fournisseur le moins cher"
+    histoire: "À compléter"
+    description: |
+      Produit beaucoup d’armements et les revend à n’importe quel acheteur.
+      Ne produit pas d’avions eux-mêmes et achète chez le moins cher.
+
+

@@ -1,0 +1,126 @@
+Alydent:
+  Grandes_Puissances:
+    - name: "Royaume de Doria"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Profondément anti-drone ou UCAV. Investit beaucoup dans des chasseurs spécialisés pour abattre des drones. Très doué en VTOL.
+        Garde une politique qui se veut neutre et d’arbitre. Historiquement, les conflits qui n’impliquent pas Doria voient leurs traités être signés à Doria.
+  Nations_Majeures:
+    - name: "Royaume d’Yser"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Allié de Doria. Ils misent beaucoup sur l’aéronaval, étant le pays avec le plus de porte-avions.
+        Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria et Solana.
+  Nations_Mineures:
+    - name: "Chancellerie de Gathersted"
+      bloc: ""
+      markdown: |
+        Allié de Doria et Yser. Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria.
+
+Meridiona:
+  Grandes_Puissances:
+    - name: "République de Solana"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Possède les Iles Solaires, un archipel dont la roche détient une forte dose d’énergie.
+        Un seul morceau peut suffire à alimenter une ville pendant 3 ans.
+        Très orienté qualité, recherche et découvertes. Favorise la création d’aéronefs innovants.
+  Nations_Majeures:
+    - name: "Grand Duché de Cevenn"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Allié historique de Solana. Préfère garder de bonnes relations pour accéder à leur marché.
+        Ne produit pas d’avions eux-mêmes et achète chez Doria et Solana.
+  Nations_Mineures:
+    - name: "Grand Duché d’Albro"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Allié de Solana. Ne produit pas d’avions eux-mêmes et achète chez Solana.
+    - name: "République de Briden"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Allié de Solana. Ne produit pas d’avions eux-mêmes et achète chez Solana.
+    - name: "Kirev"
+      bloc: "Bloc Azurien"
+      markdown: |
+        Dictature impérialiste vassale d’Azura. Ne produit pas d’avions eux-mêmes et achète chez Azura.
+    - name: "Territoire Libre de Nemea"
+      bloc: ""
+      markdown: |
+        Île polaire en marge des gouvernements. Sans ressources pertinentes.
+        Base du groupe Chimère, considéré comme terroriste par la majorité (sauf Doria et Isorum).
+        Ce groupe intervient seulement lors de guerres pour y mettre fin.
+        Ne produit pas d’avions eux-mêmes et en vole parfois.
+
+Nordine:
+  Nations_Mineures:
+    - name: "République d’Argellis"
+      bloc: "Pacte de l’Égide"
+      markdown: |
+        Territoire avec de riches ressources souterraines.
+        Ne produit pas d’avions eux-mêmes et achète chez Doria et Solana.
+    - name: "Chancellerie d’Arkhellia"
+      bloc: ""
+      markdown: |
+        Ne produit pas d’avions eux-mêmes et achète chez le moins cher.
+
+Esterient:
+  Grandes_Puissances:
+    - name: "Fédération de Talan"
+      bloc: "Bloc Talanais"
+      markdown: |
+        Seule nation produisant encore des bombardiers classiques.
+        Les autres pays préfèrent les jets Air-Sol ou Air-Air/Sol.
+        Ses alliés achètent parfois des bombardiers selon les besoins.
+    - name: "Empire d’Azura"
+      bloc: "Bloc Azurien"
+      markdown: |
+        Investit fortement dans l’automatisation des armements.
+        Réputé pour blâmer systématiquement les autres.
+        Doctrine de guerre par surcharge et supériorité numérique.
+  Nations_Majeures:
+    - name: "Union de Jespia"
+      bloc: ""
+      markdown: |
+        Incompétents en aéronautique, ils compensent par une flotte navale destructrice.
+        Ne produisent pas d’avions eux-mêmes et achètent chez Azura.
+  Nations_Mineures:
+    - name: "Royaume de Zakess"
+      bloc: "Bloc Talanais"
+      markdown: |
+        Allié de Talan. Ne produit pas d’avions eux-mêmes et achète chez Talan.
+    - name: "Empire d’Okharen"
+      bloc: "Bloc Talanais"
+      markdown: |
+        Allié de Talan. Ne produit pas d’avions eux-mêmes et achète chez Talan.
+    - name: "Duché d’Andeigen"
+      bloc: "Bloc Talanais"
+      markdown: |
+        Ne produit pas d’avions eux-mêmes et achète chez Talan.
+    - name: "Royaume de Konradia"
+      bloc: "Bloc Azurien"
+      markdown: |
+        Allié historique d’Azura. En déclin depuis un certain temps.
+        Ne produit pas d’avions eux-mêmes et achète chez Azura.
+    - name: "Duché d’Ansium"
+      bloc: "Bloc Azurien"
+      markdown: |
+        Fréquemment en guerre civile, mais n’a jamais totalement sombré.
+        Sa stabilité est indirectement soutenue par Azura.
+        Ne produit pas d’avions eux-mêmes et achète chez Azura.
+    - name: "Fédération de Cania"
+      bloc: "Bloc Azurien"
+      markdown: |
+        Ne produit pas d’avions eux-mêmes et achète chez Azura.
+    - name: "Confédération de Sylvaria"
+      bloc: ""
+      markdown: |
+        N’a participé à aucun conflit depuis environ 300 ans.
+        Considérée comme passive et insignifiante par beaucoup.
+        Ne possède pas d’aviation officielle, mais emploie des mercenaires très compétents en vol.
+    - name: "Duché d’Isorum"
+      bloc: ""
+      markdown: |
+        Produit beaucoup d’armements, revendus à tout acheteur intéressé.
+        Ne produit pas d’avions eux-mêmes et achète chez le moins cher.
+    
