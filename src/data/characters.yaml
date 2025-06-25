@@ -1,0 +1,11 @@
+characters:
+  - name: "Elyra Vex"
+    nation: "République d'Alydent"
+    slug: "elyra-vex"
+    role: "Ambassadrice"
+    shortBio: "Diplomate rusée, connue pour ses talents de négociation et son passé mystérieux."
+  - name: "Kael Draven"
+    nation: "Coalition de Nordine"
+    slug: "kael-draven"
+    role: "Commandant"
+    shortBio: "Militaire impitoyable ayant mené de nombreuses batailles décisives."
