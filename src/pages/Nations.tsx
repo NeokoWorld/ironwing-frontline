@@ -121,7 +121,7 @@ export default function NationsPage() {
   >(null);
 
   function openNationDetails(name: string) {
-    const details = nationsExpandedData.find((n) => n.name === name);
+    const details = nationsExpandedData.find((n: typeof nationsExpandedData[number]) => n.name === name);
     setSelectedNation(details || null);
   }
 
