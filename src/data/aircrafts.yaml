@@ -3,46 +3,116 @@ aircrafts:
     Intercepteur:
       - name: "Mirage 2000-5"
         role: "Intercepteur"
-        manufacturer: "Dassault Aviation"
+        manufacturer: "Dattack Aviation"
         year: "1984"
         speed: "Mach 2.2"
         description: |
           Variante du Mirage 2000 conçue pour l'interception rapide, dotée d'un radar modernisé.
         image: "/assets/aircrafts/mirage2000.png"
-      - name: "Vautour X"
+
+      - name: "Mirage F1CR"
         role: "Intercepteur"
-        manufacturer: "SolAir Industries"
-        year: "2023"
-        speed: "Mach 2.7"
+        manufacturer: "Dattack Aviation"
+        year: "1983"
+        speed: "Mach 2.2"
         description: |
-          Prototype d’intercepteur furtif développé par Solana pour la supériorité aérienne à haute altitude.
-        image: "/assets/aircrafts/vautourx.png"
+          Avion léger conçu pour des missions de reconnaissance et d’interception rapides à haute altitude.
+        image: "/assets/aircrafts/miragef1.png"
+
+    Chasseur:
+      - name: "Super Étendard Modernisé"
+        role: "Chasseur"
+        manufacturer: "Dattack Aviation"
+        year: "1995"
+        speed: "Mach 0.98"
+        description: |
+          Avion embarqué adapté pour l'interception et des missions limitées d'attaque.
+        image: "/assets/aircrafts/superetendard.png"
 
     Multirole:
-      - name: "Rafale C"
+      - name: "Rafale C/B/M"
         role: "Multirole"
-        manufacturer: "Dassault Aviation"
+        manufacturer: "Dattack Aviation"
         year: "2001"
         speed: "Mach 1.8"
         description: |
           Avion de chasse polyvalent de 4e génération+, utilisé pour des missions d’attaque au sol, interception et reconnaissance.
         image: "/assets/aircrafts/rafale.png"
 
+      - name: "Mirage 2000D"
+        role: "Multirole"
+        manufacturer: "Dattack Aviation"
+        year: "1993"
+        speed: "Mach 1.8"
+        description: |
+          Version dédiée aux frappes air-sol avec capacité nucléaire, mais également performante en mission de pénétration profonde.
+        image: "/assets/aircrafts/mirage2000d.png"
+
+    Assault:
+      - name: "Jaguar A"
+        role: "Assault"
+        manufacturer: "Dattack Aviation"
+        year: "1973"
+        speed: "Mach 1.6"
+        description: |
+          Conçu pour l'appui au sol et les frappes de précision, souvent utilisé dans les conflits asymétriques.
+        image: "/assets/aircrafts/jaguar.png"
+
+    Prototype:
+      - name: "Solstice VF-27"
+        role: "Prototype"
+        manufacturer: "Dattack Aviation"
+        year: "2023"
+        speed: "Mach 2.7"
+        description: |
+          Prototype d’intercepteur furtif développé par Solana pour la supériorité aérienne à haute altitude.
+        image: "/assets/aircrafts/solstice.png"
+
   Azura:
+    Intercepteur:
+      - name: "MiG-31 Foxhound"
+        role: "Intercepteur"
+        manufacturer: "Migorov"
+        year: "1981"
+        speed: "Mach 2.83"
+        description: |
+          Intercepteur lourd conçu pour des interceptions rapides à très haute altitude avec armement longue portée.
+        image: "/assets/aircrafts/mig31.png"
+
+    Chasseur:
+      - name: "MiG-29 Fulcrum"
+        role: "Chasseur"
+        manufacturer: "Migorov"
+        year: "1983"
+        speed: "Mach 2.25"
+        description: |
+          Chasseur léger très maniable, conçu pour le combat rapproché et la défense aérienne de courte portée.
+        image: "/assets/aircrafts/mig29.png"
+
     Assault:
       - name: "Su-25 Frogfoot"
         role: "Assault"
-        manufacturer: "Sukhoi"
+        manufacturer: "Shukhoi"
         year: "1981"
         speed: "950 km/h"
         description: |
           Avion d'attaque au sol robuste conçu pour l'appui rapproché des troupes.
         image: "/assets/aircrafts/su25.png"
 
+    Multirole:
+      - name: "Su-30SM"
+        role: "Multirole"
+        manufacturer: "Shukhoi"
+        year: "2012"
+        speed: "Mach 2"
+        description: |
+          Chasseur multirôle lourd à longue portée, capable d’opérations air-air et air-sol.
+        image: "/assets/aircrafts/su30.png"
+
     Prototype:
       - name: "Okhotnik B"
         role: "Prototype"
-        manufacturer: "UAC"
+        manufacturer: "Shukhoi"
         year: "2021"
         speed: "1000 km/h"
         description: |
@@ -50,43 +120,93 @@ aircrafts:
         image: "/assets/aircrafts/okhotnik.png"
 
   Talan:
+    Intercepteur:
+      - name: "F-15C Eagle"
+        role: "Intercepteur"
+        manufacturer: "Eagletech"
+        year: "1976"
+        speed: "Mach 2.5"
+        description: |
+          Intercepteur lourd conçu pour la supériorité aérienne à haute vitesse et longue portée.
+        image: "/assets/aircrafts/f15c.png"
+
     Chasseur:
       - name: "F-22 Raptor"
         role: "Chasseur"
-        manufacturer: "Lockheed Martin"
+        manufacturer: "Lockhead Martini"
         year: "2005"
         speed: "Mach 2.25"
         description: |
           Chasseur de 5e génération spécialisé dans la supériorité aérienne, furtif et très manœuvrable.
         image: "/assets/aircrafts/f22.png"
 
+    Assault:
+      - name: "A-10 Thunderbolt II"
+        role: "Assault"
+        manufacturer: "Fairwind Aerospace"
+        year: "1977"
+        speed: "706 km/h"
+        description: |
+          Avion blindé conçu pour l'appui aérien rapproché avec un canon de 30 mm redoutable.
+        image: "/assets/aircrafts/a10.png"
+
+    Multirole:
+      - name: "F-35 Lightning II"
+        role: "Multirole"
+        manufacturer: "Lockhead Martini"
+        year: "2015"
+        speed: "Mach 1.6"
+        description: |
+          Chasseur multirôle furtif de 5e génération, compatible avec les opérations air-air, air-sol et guerre électronique.
+        image: "/assets/aircrafts/f35.png"
+
     Prototype:
-      - name: "Phantom Edge"
+      - name: "F-60 Edge"
         role: "Prototype"
-        manufacturer: "TalanTech"
+        manufacturer: "Lockhead Martini"
         year: "2026"
         speed: "Mach 3"
         description: |
           Projet avancé de chasseur spatial court-courrier capable de brèves incursions stratosphériques.
-        image: "/assets/aircrafts/phantomedge.png"
+        image: "/assets/aircrafts/f60.png"
 
   Doria:
+    Intercepteur:
+      - name: "Draken J35J"
+        role: "Intercepteur"
+        manufacturer: "Seeb"
+        year: "1974"
+        speed: "Mach 2"
+        description: |
+          Intercepteur suédois emblématique conçu pour une montée rapide et des interceptions à haute altitude.
+        image: "/assets/aircrafts/j35.png"
+
+    Chasseur:
+      - name: "JAS 39C Gripen"
+        role: "Chasseur"
+        manufacturer: "Seeb"
+        year: "2008"
+        speed: "Mach 2"
+        description: |
+          Version optimisée du Gripen pour le combat aérien pur, avec avionique avancée et signature radar réduite.
+        image: "/assets/aircrafts/gripen_c.png"
+
     Multirole:
-      - name: "Gripen E"
+      - name: "Gripen NG"
         role: "Multirole"
-        manufacturer: "Saab"
+        manufacturer: "Seeb"
         year: "2016"
         speed: "Mach 2"
         description: |
-          Chasseur multirôle suédois moderne, léger et très maniable, optimisé pour l'efficacité et la rapidité de déploiement.
+          Chasseur multirôle Dorien moderne, léger et très maniable, optimisé pour l'efficacité et la rapidité de déploiement.
         image: "/assets/aircrafts/gripen.png"
 
-    Intercepteur:
-      - name: "Falcon D5"
-        role: "Intercepteur"
-        manufacturer: "Doria Defense"
+    Prototype:
+      - name: "Lupus"
+        role: "Prototype"
+        manufacturer: "Seeb"
         year: "2024"
         speed: "Mach 2.5"
         description: |
-          Conception futuriste intégrant l’IA pour des interceptions ultra-rapides à moyenne altitude.
-        image: "/assets/aircrafts/falcond5.png"
+          Conception futuriste pour des interceptions ultra-rapides de drones à moyenne altitude.
+        image: "/assets/aircrafts/lupus.png"

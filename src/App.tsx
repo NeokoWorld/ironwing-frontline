@@ -10,7 +10,7 @@ import Characters from './pages/Characters';
 import CharacterDetailPage from './pages/CharacterDetail';
 import Nations from './pages/Nations';
 import Aircrafts from './pages/Aircrafts';
-import TimeLine from './pages/TimeLine';
+//import TimeLine from './pages/TimeLine';
 
 function App() {
   return (
@@ -25,7 +25,6 @@ function App() {
             <Route path="/characters/:slug" element={<CharacterDetailPage />} />
             <Route path="/nations" element={<Nations />} />
             <Route path="/aircrafts" element={<Aircrafts />} />
-            <Route path="/timeline" element={<TimeLine />} />
           </Routes>
         </main>
         <Footer />

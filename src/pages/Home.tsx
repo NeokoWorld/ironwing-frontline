@@ -1,6 +1,7 @@
 export default function Home() {
   const news = [
-    { date: '25 juin', content: 'Page Personnage fonctionnelle (Placeholders)' },
+    { date: '26 juin', content: 'Page Avions fonctionnelle' },
+    { date: '25 juin', content: 'Page Personnages fonctionnelle (Placeholders)' },
     { date: '25 juin', content: 'Page Nations fonctionnelle' },
     { date: '25 juin', content: 'Création du Site' },
   ];
