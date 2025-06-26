@@ -1,0 +1,92 @@
+aircrafts:
+  Solana:
+    Intercepteur:
+      - name: "Mirage 2000-5"
+        role: "Intercepteur"
+        manufacturer: "Dassault Aviation"
+        year: "1984"
+        speed: "Mach 2.2"
+        description: |
+          Variante du Mirage 2000 conçue pour l'interception rapide, dotée d'un radar modernisé.
+        image: "/assets/aircrafts/mirage2000.png"
+      - name: "Vautour X"
+        role: "Intercepteur"
+        manufacturer: "SolAir Industries"
+        year: "2023"
+        speed: "Mach 2.7"
+        description: |
+          Prototype d’intercepteur furtif développé par Solana pour la supériorité aérienne à haute altitude.
+        image: "/assets/aircrafts/vautourx.png"
+
+    Multirole:
+      - name: "Rafale C"
+        role: "Multirole"
+        manufacturer: "Dassault Aviation"
+        year: "2001"
+        speed: "Mach 1.8"
+        description: |
+          Avion de chasse polyvalent de 4e génération+, utilisé pour des missions d’attaque au sol, interception et reconnaissance.
+        image: "/assets/aircrafts/rafale.png"
+
+  Azura:
+    Assault:
+      - name: "Su-25 Frogfoot"
+        role: "Assault"
+        manufacturer: "Sukhoi"
+        year: "1981"
+        speed: "950 km/h"
+        description: |
+          Avion d'attaque au sol robuste conçu pour l'appui rapproché des troupes.
+        image: "/assets/aircrafts/su25.png"
+
+    Prototype:
+      - name: "Okhotnik B"
+        role: "Prototype"
+        manufacturer: "UAC"
+        year: "2021"
+        speed: "1000 km/h"
+        description: |
+          Drone furtif expérimental développé pour opérer en coordination avec des chasseurs pilotés.
+        image: "/assets/aircrafts/okhotnik.png"
+
+  Talan:
+    Chasseur:
+      - name: "F-22 Raptor"
+        role: "Chasseur"
+        manufacturer: "Lockheed Martin"
+        year: "2005"
+        speed: "Mach 2.25"
+        description: |
+          Chasseur de 5e génération spécialisé dans la supériorité aérienne, furtif et très manœuvrable.
+        image: "/assets/aircrafts/f22.png"
+
+    Prototype:
+      - name: "Phantom Edge"
+        role: "Prototype"
+        manufacturer: "TalanTech"
+        year: "2026"
+        speed: "Mach 3"
+        description: |
+          Projet avancé de chasseur spatial court-courrier capable de brèves incursions stratosphériques.
+        image: "/assets/aircrafts/phantomedge.png"
+
+  Doria:
+    Multirole:
+      - name: "Gripen E"
+        role: "Multirole"
+        manufacturer: "Saab"
+        year: "2016"
+        speed: "Mach 2"
+        description: |
+          Chasseur multirôle suédois moderne, léger et très maniable, optimisé pour l'efficacité et la rapidité de déploiement.
+        image: "/assets/aircrafts/gripen.png"
+
+    Intercepteur:
+      - name: "Falcon D5"
+        role: "Intercepteur"
+        manufacturer: "Doria Defense"
+        year: "2024"
+        speed: "Mach 2.5"
+        description: |
+          Conception futuriste intégrant l’IA pour des interceptions ultra-rapides à moyenne altitude.
+        image: "/assets/aircrafts/falcond5.png"
