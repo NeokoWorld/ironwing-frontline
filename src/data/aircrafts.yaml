@@ -38,6 +38,15 @@ aircrafts:
           Version dédiée aux frappes air-sol avec capacité nucléaire, mais également performante en mission de pénétration profonde.
         image: "/assets/aircrafts/mirage2000d.png"
 
+      - name: "Eurofighter Typhoon"
+        role: "Multirole"
+        manufacturer: "Dattack Aviation / Seeb"
+        year: "2003"
+        speed: "Mach 2"
+        description: |
+          Avion multirôle Meridio-Alydien, utilisé par plusieurs forces aériennes alliées. Excellent pour la supériorité aérienne et les missions d’attaque.
+        image: "/assets/aircrafts/eurofighter.png"
+
     Prototype:
       - name: "Solstice VF-27"
         role: "Prototype"
@@ -78,6 +87,15 @@ aircrafts:
           Intercepteur lourd conçu pour des interceptions rapides à très haute altitude avec armement longue portée.
         image: "/assets/aircrafts/mig31.png"
 
+      - name: "Su-33 Flanker-D"
+        role: "Intercepteur"
+        manufacturer: "Shukhoi"
+        year: "1998"
+        speed: "Mach 2"
+        description: |
+          Version navale du Su-27, utilisée pour la défense aérienne embarquée sur porte-avions.
+        image: "/assets/aircrafts/su33.png"
+
     Chasseur:
       - name: "MiG-29 Fulcrum"
         role: "Chasseur"
@@ -97,6 +115,24 @@ aircrafts:
           Chasseur lourd longue portée très manœuvrable, conçu pour contrer les chasseurs occidentaux de 4e génération.
         image: "/assets/aircrafts/su27.png"
 
+      - name: "Su-57 Felon"
+        role: "Chasseur"
+        manufacturer: "Shukhoi"
+        year: "2020"
+        speed: "Mach 2"
+        description: |
+          Premier chasseur furtif russe de 5e génération, conçu pour la supériorité aérienne et les missions multirôles avancées.
+        image: "/assets/aircrafts/su57.png"
+      
+      - name: "MiG-21 Fishbed"
+        role: "Chasseur"
+        manufacturer: "Migorov"
+        year: "1959"
+        speed: "Mach 2.05"
+        description: |
+          Chasseur supersonique légendaire, exporté massivement, encore utilisé dans certains escadrons d'entraînement et de défense secondaire.
+        image: "/assets/aircrafts/mig21.png"
+
       - name: "Su-35 Flanker-E"
         role: "Chasseur"
         manufacturer: "Shukhoi"
@@ -115,6 +151,15 @@ aircrafts:
         description: |
           Avion d'attaque au sol robuste conçu pour l'appui rapproché des troupes.
         image: "/assets/aircrafts/su25.png"
+
+      - name: "Su-34 Fullback"
+        role: "Assault"
+        manufacturer: "Shukhoi"
+        year: "2014"
+        speed: "Mach 1.8"
+        description: |
+          Bombardier tactique et avion d'attaque au sol moderne, capable de frapper avec précision à longue portée.
+        image: "/assets/aircrafts/su34.png"
 
     Multirole:
       - name: "Su-30SM"
@@ -136,6 +181,14 @@ aircrafts:
         image: "/assets/aircrafts/mig35.png"
 
     Prototype:
+      - name: "MiG-41"
+        role: "Chasseur"
+        manufacturer: "Migorov"
+        year: "2035"
+        speed: "Mach 4+"
+        description: |
+          Concept de futur chasseur hypersonique de 6e génération, capable d’interceptions à très haute altitude et grande vitesse.
+        image: "/assets/aircrafts/mig41.png"
       - name: "Su-KX"
         role: "Prototype"
         manufacturer: "Shukhoi"
@@ -174,6 +227,15 @@ aircrafts:
           Intercepteur lourd conçu pour la supériorité aérienne à haute vitesse et longue portée.
         image: "/assets/aircrafts/f15c.png"
 
+      - name: "F-14 Tomcat"
+        role: "Intercepteur"
+        manufacturer: "Fairwind Aerospace"
+        year: "1974"
+        speed: "Mach 2.34"
+        description: |
+          Avion embarqué emblématique des années 70-90, spécialisé dans l’interception à longue portée avec ses missiles Phoenix.
+        image: "/assets/aircrafts/f14.png"
+
     Chasseur:
       - name: "F-22 Raptor"
         role: "Chasseur"
@@ -201,6 +263,24 @@ aircrafts:
         description: |
           Chasseur furtif de 5e génération, conçu pour pénétrer les défenses ennemies et dominer les affrontements à longue portée.
         image: "/assets/aircrafts/j20.png"
+
+      - name: "YF-23 Black Widow"
+        role: "Chasseur"
+        manufacturer: "Fairwind Aerospace"
+        year: "1990"
+        speed: "Mach 2.2"
+        description: |
+          Prototype furtif avancé rival du F-22, possédant une silhouette innovante et une grande furtivité.
+        image: "/assets/aircrafts/yf23.png"
+
+      - name: "F/A-18 Hornet"
+        role: "Chasseur"
+        manufacturer: "Fairwind Aerospace"
+        year: "1983"
+        speed: "Mach 1.8"
+        description: |
+          Chasseur embarqué polyvalent utilisé pour la supériorité aérienne et l’attaque au sol, très utilisé par la marine.
+        image: "/assets/aircrafts/f18.png"
 
     Assault:
       - name: "A-10 Thunderbolt II"
@@ -249,6 +329,24 @@ aircrafts:
         description: |
           Chasseur furtif lourd de 6e génération, conçu pour surpasser tous les appareils ennemis en autonomie, détection et puissance de feu. Équipé de senseurs de champ de bataille, il peut servir de poste de commandement volant.
         image: "/assets/aircrafts/f47.png"
+    Bombardier:
+      - name: "B-2 Spirit"
+        role: "Bombardier"
+        manufacturer: "Fairwind Aerospace"
+        year: "1997"
+        speed: "Mach 0.95"
+        description: |
+          Bombardier furtif stratégique capable de frappes nucléaires ou conventionnelles sur longue distance.
+        image: "/assets/aircrafts/b2.png"
+
+      - name: "B-21 Raider"
+        role: "Bombardier"
+        manufacturer: "Fairwind Aerospace"
+        year: "2028"
+        speed: "Mach 1.0+"
+        description: |
+          Bombardier furtif de nouvelle génération, destiné à remplacer le B-2, avec des capacités d’interopérabilité avancées.
+        image: "/assets/aircrafts/b21.png"
 
   Doria:
     Intercepteur:
@@ -280,6 +378,15 @@ aircrafts:
         description: |
           Chasseur multirôle Dorien moderne, léger et très maniable, optimisé pour l'efficacité et la rapidité de déploiement.
         image: "/assets/aircrafts/gripen.png"
+
+      - name: "Eurofighter Typhoon"
+        role: "Multirole"
+        manufacturer: "Dattack Aviation / Seeb"
+        year: "2003"
+        speed: "Mach 2"
+        description: |
+          Avion multirôle Meridio-Alydien employé dans la doctrine d’interopérabilité Doriane. Très maniable, il couvre aussi bien l’air-air que l’attaque au sol.
+        image: "/assets/aircrafts/eurofighter.png"
 
       - name: "Gripen E"
         role: "Multirole"
