@@ -1,4 +1,4 @@
 import YAML from 'yaml';
-import raw from './timeLine.yaml?raw';
+import raw from './timeline.yaml?raw';
 
-export const timeLineData = YAML.parse(raw).timeLine;
+export const timelineData = YAML.parse(raw).timeline;

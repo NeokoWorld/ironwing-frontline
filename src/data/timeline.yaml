@@ -1,6 +1,6 @@
-timeLine:
+timeline:
   - title: Guerre d’Unification d’Azura
-    years: 1951–1952
+    years: "1951–1952"
     summary: >
       Plusieurs provinces militaires azuriennes s’unissent par la force sous la bannière d’un commandement centralisé. Apparition des premiers drones massifs. Konradia, affaiblie, se place volontairement sous la protection d’Azura, devenant un État client.
     consequences:
@@ -9,7 +9,7 @@ timeLine:
       - Naissance de la doctrine de *surcharge militaire*.
 
   - title: Guerres Civiles d’Ansium
-    years: 1965–2025
+    years: "1965–2025"
     summary: >
       Ansium traverse des périodes de conflits internes presque cycliques. Azura y teste de nouvelles générations d’UCAV dans des frappes ponctuelles. Sylvaria devient le point d’exfiltration de réfugiés et de mercenaires.
     consequences:
@@ -18,17 +18,17 @@ timeLine:
       - Chimère aurait été repérée pour la première fois dans ce contexte.
 
   - title: 1ère Crise des Iles Solaires
-    years: 1992
+    years: "1992"
     summary: >
       Un conflit diplomatique majeur a opposé Solana à Talan, qui revendiquait un droit de surveillance sur les Iles Solaires pour « sécurité énergétique mondiale ». Doria a joué l’arbitre, et un traité signé à Doria a empêché l’escalade, mais a créé un froid entre Talan et Solana depuis.
     consequences:
       - Début de la rivalité stratégique Solana–Talan.
       - Émergence du rôle diplomatique de Doria.
-      - *Traité de Doria (1993)* limite les zones de vol stratégiques autour de l’archipel.
+      - Traité de Doria (1993) limite les zones de vol stratégiques autour de l’archipel.
       - Début d’un débat mondial sur la souveraineté énergétique.
 
   - title: 2nde Crise des Iles Solaires
-    years: 1994–1996
+    years: "1994–1996"
     summary: >
       L’Empire d’Azura tente une opération secrète pour infiltrer, contrôler et annexer les Îles Solaires sous prétexte d’assurer leur sécurité énergétique. Solana réagit avec une force aérienne avancée, obligeant Azura à reculer. L’effondrement de Konradia, 1995, force Azura à se concentrer sur deux conflits à la fois.
     consequences:
@@ -37,7 +37,7 @@ timeLine:
       - Doute sur la fiabilité des États-clients d’Azura.
 
   - title: Effondrement de Konradia
-    years: 1995–2013
+    years: "1995–2013"
     summary: >
       Konradia, ex-puissance régionale, s'effondre économiquement et socialement. Crise économique majeure, corruption, effondrement du tissu social. Azura fournit un soutien autoritaire. Émeutes, exode, naissance de mouvements séparatistes. Azura transforme Konradia en satellite militaire.
     consequences:
@@ -46,7 +46,7 @@ timeLine:
       - Première fuite massive de pilotes vers Doria/Sylvaria.
 
   - title: Accords de Sylvaria
-    years: 2007
+    years: "2007"
     summary: >
       Tentative ratée de créer une organisation militaire supranationale indépendante, signée par Solana, Doria et quelques alliés. Azura, Talan et leurs sphères d’influence ont boycotté l’accord. L’échec de ces accords a justifié une montée du mercenariat indépendant.
     consequences:
@@ -54,7 +54,7 @@ timeLine:
       - L’échec des accords entraîne une explosion du **mercenariat aérien indépendant**.
 
   - title: Actions de Chimère
-    years: 2011–2014
+    years: "2011–2014"
     summary: >
       Pendant le chaos en Konradia et Ansium, un groupe d’élite inconnu commence à mener des frappes ciblées pour stopper les conflits. D’abord considéré comme une légende, Chimère devient réalité.
     consequences:
@@ -62,7 +62,7 @@ timeLine:
       - Début de l’obsession sécuritaire d’Azura envers les “escadrons fantômes”.
 
   - title: Crise énergétique d’Argellis
-    years: 2012–2013
+    years: "2012–2013"
     summary: >
       Une tentative d’exploitation massive de gisements souterrains d’Argellis par des sociétés d’Isorum entraîne une pollution massive et une crise diplomatique qui éclate en conflit armé quand Arkhellia décide de prendre le contrôle de ces gisements.
     consequences:
@@ -71,7 +71,7 @@ timeLine:
       - Début d’une montée en puissance environnementaliste dans les alliances occidentales.
 
   - title: Création de l’OMPP
-    years: 2014
+    years: "2014"
     summary: >
       Suite à une des guerres civiles d’Ansium où Solana a manqué de rayer le pays du continent à cause d’une cellule extrémiste ayant développé un canon orbital HYPERION, le monde a décidé de créer une organisation supranationale pour maintenir la paix : l’Organisation Mondiale Pour la Paix.
     consequences:
@@ -80,7 +80,7 @@ timeLine:
       - Talan, Argellis et Doria sont les principaux acteurs de l’OMPP.
 
   - title: Pacte de l’Égide
-    years: 2023
+    years: "2023"
     summary: >
       Signé par Doria, Solana, Yser, Cevenn, Albro et Argellis. A pour objectif la création d’un réseau de défense aérienne partagé contre drones et UCAVs.
     consequences:
@@ -88,7 +88,7 @@ timeLine:
       - Provoque l’ire d’Azura, qui y voit un encerclement idéologique.
 
   - title: 3ème Crise des Iles Solaires
-    years: 2025
+    years: "2025"
     summary: >
       Attentat contre une station énergétique solaire. Solana accuse Kirev (vassal d’Azura), Azura nie.
     consequences:

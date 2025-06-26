@@ -1,8 +1,8 @@
 :root {
-  --color-bg: #0a1526;       /* Bleu nuit profond */
-  --color-secondary: #12243a; /* Surfaces secondaires légèrement plus claires */
-  --color-primary: #ffffff;   /* Texte très clair */
-  --color-accent: #468aff;    /* Bleu éclatant pour les éléments actifs */
+  --color-bg: #0a1526;
+  --color-secondary: #12243a;
+  --color-primary: #ffffff;
+  --color-accent: #468aff;
   --color-text: #cbd5e1; 
   margin: 0 auto;
   text-align: center;
