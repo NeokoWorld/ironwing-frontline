@@ -1,9 +1,9 @@
 :root {
-  --color-bg: #292e36; /* Fond sombre acier */
-  --color-secondary: #383e4b; /* Surfaces secondaires, comme cartes ou panneaux */
-  --color-primary: #e2e6ed; /* Texte principal, interfaces lisibles */
-  --color-accent: #34a9f7; /* HUD, éléments actifs */
-  --color-text: #d1d5db; /* Texte général */
+  --color-bg: #0a1526;       /* Bleu nuit profond */
+  --color-secondary: #12243a; /* Surfaces secondaires légèrement plus claires */
+  --color-primary: #ffffff;   /* Texte très clair */
+  --color-accent: #468aff;    /* Bleu éclatant pour les éléments actifs */
+  --color-text: #cbd5e1; 
   margin: 0 auto;
   text-align: center;
 }
