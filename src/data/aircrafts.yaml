@@ -1,80 +1,66 @@
 aircrafts:
   Solana:
     Intercepteur:
-      - name: "Mirage 2000-5"
-        role: "Intercepteur"
-        manufacturer: "Dattack Aviation"
-        year: "1984"
-        speed: "Mach 2.2"
-        description: |
-          Variante du Mirage 2000 conçue pour l'interception rapide, dotée d'un radar modernisé.
-        image: "/assets/aircrafts/mirage2000.png"
-
       - name: "Mirage F1CR"
         role: "Intercepteur"
         manufacturer: "Dattack Aviation"
         year: "1983"
         speed: "Mach 2.2"
         description: |
-          Avion léger conçu pour des missions de reconnaissance et d’interception rapides à haute altitude.
+          Conçu comme un vecteur agile et efficace pour les opérations de reconnaissance armée et d’interception rapide, le Mirage F1CR marqua une étape importante dans la doctrine solanienne de maîtrise du ciel par la finesse plutôt que la force brute. Sa cellule épurée et ses systèmes électro-optiques en firent un redoutable éclaireur à haute altitude, encore apprécié aujourd’hui dans les escadrons de réserve.
         image: "/assets/aircrafts/miragef1.png"
+      - name: "Mirage 2000-5"
+        role: "Intercepteur"
+        manufacturer: "Dattack Aviation"
+        year: "1984"
+        speed: "Mach 2.2"
+        description: |
+          Évolution majeure dans la lignée des intercepteurs légers de Solana, le 2000-5 est optimisé pour la réponse rapide face aux menaces aériennes. Doté d’un radar multibandes haute résolution et de missiles à guidage actif, il reste un élément-clé du dispositif de réaction aérienne rapide, grâce à son agilité et sa capacité à engager plusieurs cibles à longue portée.
+        image: "/assets/aircrafts/mirage2000.png"
 
     Multirole:
-      - name: "Rafale C/B/M"
-        role: "Multirole"
-        manufacturer: "Dattack Aviation"
-        year: "2001"
-        speed: "Mach 1.8"
-        description: |
-          Avion de chasse polyvalent de 4e génération+, utilisé pour des missions d’attaque au sol, interception et reconnaissance.
-        image: "/assets/aircrafts/rafale.png"
-
       - name: "Mirage 2000D"
         role: "Multirole"
         manufacturer: "Dattack Aviation"
         year: "1993"
         speed: "Mach 1.8"
         description: |
-          Version dédiée aux frappes air-sol avec capacité nucléaire, mais également performante en mission de pénétration profonde.
+          Déclinaison d’attaque du Mirage, le 2000D fut conçu pour la pénétration en profondeur de zones défendues, y compris sous environnement brouillé. Spécialisé dans les frappes air-sol de précision, il intègre également des capacités nucléaires tactiques, incarnant la doctrine solanienne de dissuasion technologique.
         image: "/assets/aircrafts/mirage2000d.png"
-
+      - name: "Rafale C/B/M"
+        role: "Multirole"
+        manufacturer: "Dattack Aviation"
+        year: "2001"
+        speed: "Mach 1.8"
+        description: |
+          Véritable pivot de la puissance aérienne solanienne, le Rafale est capable de remplir tous les rôles avec une efficacité redoutable : combat aérien, appui au sol, guerre électronique, reconnaissance… Sa signature radar réduite et son cockpit ultra-connecté en font un atout majeur pour la supériorité aérienne dans un théâtre en constante évolution.
+        image: "/assets/aircrafts/rafale.png"
       - name: "Eurofighter Typhoon"
         role: "Multirole"
         manufacturer: "Dattack Aviation / Seeb"
         year: "2003"
         speed: "Mach 2"
         description: |
-          Avion multirôle Meridio-Alydien, utilisé par plusieurs forces aériennes alliées. Excellent pour la supériorité aérienne et les missions d’attaque.
+          Développé en coopération avec Doria, le Typhoon est conçu pour l’interopérabilité et la domination aérienne dans les conflits de haute intensité. Il combine des systèmes d’armes européens avec l’agilité propre aux doctrines solaniennes. Bien que plus lourd que le Rafale, il excelle dans les engagements à haute vitesse.
         image: "/assets/aircrafts/eurofighter.png"
 
     Prototype:
-      - name: "Solstice VF-27"
-        role: "Prototype"
-        manufacturer: "Dattack Aviation"
-        year: "2023"
-        speed: "Mach 2.7"
-        description: |
-          Prototype d’intercepteur furtif développé par Solana pour la supériorité aérienne à haute altitude.
-        image: "/assets/aircrafts/solstice.png"
-
-      - name: "SCAF NGF"
-        role: "Prototype"
-        manufacturer: "Dattack Aviation"
-        year: "2030"
-        speed: "Mach 2.5"
-        description: |
-          Chasseur de 6e génération développé avec une approche modulaire. Pensé pour opérer en coordination avec des drones d’escorte et systèmes interconnectés, il incarne la doctrine solanienne de supériorité souveraine et pilotée.
-        image: "/assets/aircrafts/scaf.png"
-
-
       - name: "Neuron"
         role: "Prototype"
         manufacturer: "Dattack Aviation"
         year: "2012"
         speed: "Mach 0.8"
         description: |
-          Drone furtif développé en collaboration avec le Pacte de L'Egide. En Solana, il sert de plateforme de recherche sur la coordination homme-machine.
+          Plateforme furtive autonome non armée, le Neuron sert de démonstrateur technologique pour les concepts de combat collaboratif et d’intégration IA. Il a permis de valider de nombreuses technologies intégrées aujourd’hui dans les chasseurs et drones solaniens modernes. Son rôle est avant tout stratégique et expérimental.
         image: "/assets/aircrafts/neuron.png"
+      - name: "Solstice VF-27"
+        role: "Prototype"
+        manufacturer: "Dattack Aviation"
+        year: "2023"
+        speed: "Mach 2.7"
+        description: |
+          Conçu pour opérer dans la haute stratosphère, le Solstice est un intercepteur furtif taillé pour engager des cibles hypersoniques ou orbitales à l’aube d’un nouveau type de guerre. Doté d’un revêtement adaptatif et de systèmes d’intelligence embarquée, il constitue la réponse solanienne aux menaces d’altitude extrême.
+        image: "/assets/aircrafts/solstice.png"
 
   Azura:
     Intercepteur:
@@ -84,63 +70,58 @@ aircrafts:
         year: "1981"
         speed: "Mach 2.83"
         description: |
-          Intercepteur lourd conçu pour des interceptions rapides à très haute altitude avec armement longue portée.
+          Intercepteur lourd à très haute vitesse, conçu pour couvrir les immensités du territoire azurien. Il excelle dans l’engagement à longue portée grâce à un radar puissant et des missiles de théâtre. Utilisé pour neutraliser les menaces avant qu'elles ne pénètrent l'espace aérien national.
         image: "/assets/aircrafts/mig31.png"
-
       - name: "Su-33 Flanker-D"
         role: "Intercepteur"
         manufacturer: "Shukhoi"
         year: "1998"
         speed: "Mach 2"
         description: |
-          Version navale du Su-27, utilisée pour la défense aérienne embarquée sur porte-avions.
+          Défenseur aéronaval embarqué, le Flanker-D équipe les grandes flottes d’Azura. Optimisé pour l’interception en haute mer, il combine endurance, robustesse et capacité à opérer depuis les ponts inclinés des croiseurs-aéronefs.
         image: "/assets/aircrafts/su33.png"
 
     Chasseur:
-      - name: "MiG-29 Fulcrum"
-        role: "Chasseur"
-        manufacturer: "Migorov"
-        year: "1983"
-        speed: "Mach 2.25"
-        description: |
-          Chasseur léger très maniable, conçu pour le combat rapproché et la défense aérienne de courte portée.
-        image: "/assets/aircrafts/mig29.png"
-
-      - name: "Su-27 Flanker"
-        role: "Chasseur"
-        manufacturer: "Shukhoi"
-        year: "1985"
-        speed: "Mach 2.35"
-        description: |
-          Chasseur lourd longue portée très manœuvrable, conçu pour contrer les chasseurs occidentaux de 4e génération.
-        image: "/assets/aircrafts/su27.png"
-
-      - name: "Su-57 Felon"
-        role: "Chasseur"
-        manufacturer: "Shukhoi"
-        year: "2020"
-        speed: "Mach 2"
-        description: |
-          Premier chasseur furtif russe de 5e génération, conçu pour la supériorité aérienne et les missions multirôles avancées.
-        image: "/assets/aircrafts/su57.png"
-      
       - name: "MiG-21 Fishbed"
         role: "Chasseur"
         manufacturer: "Migorov"
         year: "1959"
         speed: "Mach 2.05"
         description: |
-          Chasseur supersonique légendaire, exporté massivement, encore utilisé dans certains escadrons d'entraînement et de défense secondaire.
+          Véritable dinosaure encore en service, ce chasseur léger est peu coûteux, rapide et brutalement efficace dans les conflits de basse intensité. Il sert de plateforme d’entraînement avancé et de défense locale dans les zones moins prioritaires.
         image: "/assets/aircrafts/mig21.png"
-
+      - name: "MiG-29 Fulcrum"
+        role: "Chasseur"
+        manufacturer: "Migorov"
+        year: "1983"
+        speed: "Mach 2.25"
+        description: |
+          Le Fulcrum est le fer de lance des escadrons de première ligne d’Azura depuis des décennies. Il est aussi l'avion le plus utilisé par des mercenaires. Son agilité exceptionnelle et sa maintenance simplifiée en font un choix favori pour les interventions rapides à courte portée.
+        image: "/assets/aircrafts/mig29.png"
+      - name: "Su-27 Flanker"
+        role: "Chasseur"
+        manufacturer: "Shukhoi"
+        year: "1985"
+        speed: "Mach 2.35"
+        description: |
+          Ce chasseur lourd a redéfini les standards azuriens en matière de supériorité aérienne. Doté d'une grande autonomie et d'une maniabilité surprenante pour sa taille, il reste une menace sérieuse face à n’importe quel appareil adverse.
+        image: "/assets/aircrafts/su27.png"
       - name: "Su-35 Flanker-E"
         role: "Chasseur"
         manufacturer: "Shukhoi"
         year: "2014"
         speed: "Mach 2.25"
         description: |
-          Chasseur lourd multirôle très manœuvrable, doté de moteurs à poussée vectorielle et de capacités air-air et air-sol avancées.
+          Version modernisée et ultra-maniable du Flanker, le Flanker-E intègre des systèmes de conduite de tir avancés et une poussée vectorielle. Il est l’un des rares appareils capables de rivaliser seul contre plusieurs adversaires dans un combat aérien moderne.
         image: "/assets/aircrafts/su35.png"
+      - name: "Su-57 Felon"
+        role: "Chasseur"
+        manufacturer: "Shukhoi"
+        year: "2020"
+        speed: "Mach 2"
+        description: |
+          Premier chasseur furtif opérationnel d’Azura, le Felon incarne l'équilibre entre discrétion, puissance de feu et combat rapproché. Conçu pour dominer les premières vagues d’attaque ennemies, il excelle dans la chasse aux chasseurs à travers un réseau de capteurs passifs.
+        image: "/assets/aircrafts/su57.png"
 
     Assault:
       - name: "Su-25 Frogfoot"
@@ -149,16 +130,15 @@ aircrafts:
         year: "1981"
         speed: "950 km/h"
         description: |
-          Avion d'attaque au sol robuste conçu pour l'appui rapproché des troupes.
+          Bête de somme des forces au sol, le Frogfoot est un avion d’appui rapproché extrêmement résistant. Capable d’encaisser de lourds dégâts tout en continuant la mission, il est redouté dans les zones de conflit urbain ou montagneux.
         image: "/assets/aircrafts/su25.png"
-
       - name: "Su-34 Fullback"
         role: "Assault"
         manufacturer: "Shukhoi"
         year: "2014"
         speed: "Mach 1.8"
         description: |
-          Bombardier tactique et avion d'attaque au sol moderne, capable de frapper avec précision à longue portée.
+          Issu des doctrines azuriennes de frappe en profondeur, le Fullback est un bombardier d’attaque tactique équipé pour frapper des cibles protégées. Sa cabine blindée, son armement varié et son autonomie en font une plateforme idéale pour les raids à longue portée.
         image: "/assets/aircrafts/su34.png"
 
     Multirole:
@@ -168,119 +148,103 @@ aircrafts:
         year: "2012"
         speed: "Mach 2"
         description: |
-          Chasseur multirôle lourd à longue portée, capable d’opérations air-air et air-sol.
+          Le Su-30SM est un chasseur multirôle lourd conçu pour l'endurance et la polyvalence. Utilisé dans la doctrine azurienne pour l'interdiction aérienne, l’escorte et la suppression des défenses ennemies, il peut aussi servir de relais de commandement aérien.
         image: "/assets/aircrafts/su30.png"
-
       - name: "MiG-35"
         role: "Multirole"
         manufacturer: "Migorov"
         year: "2019"
         speed: "Mach 2.25"
         description: |
-          Évolution moderne du MiG-29, équipé de systèmes avancés, conçu pour des engagements multi-théâtres.
+          Version avancée du MiG-29, le MiG-35 bénéficie d’une suite électronique de dernière génération. Il est adapté aux conflits hybrides et aux environnements électromagnétiques complexes. Conçu pour frapper rapidement et se retirer avant la riposte.
         image: "/assets/aircrafts/mig35.png"
 
     Prototype:
-      - name: "MiG-41"
-        role: "Chasseur"
-        manufacturer: "Migorov"
-        year: "2035"
-        speed: "Mach 4+"
-        description: |
-          Concept de futur chasseur hypersonique de 6e génération, capable d’interceptions à très haute altitude et grande vitesse.
-        image: "/assets/aircrafts/mig41.png"
-      - name: "Su-KX"
-        role: "Prototype"
-        manufacturer: "Shukhoi"
-        year: "2026"
-        speed: "Mach 2.1"
-        description: |
-          Chasseur expérimental lourdement assisté par IA, capable de commander un essaim de drones en combat aérien coopératif.
-        image: "/assets/aircrafts/sukx.png"
-
       - name: "UX-50 Demon"
         role: "Prototype"
         manufacturer: "Krov Dynamics"
         year: "2025"
         speed: "Mach 1.5"
         description: |
-          Drone de commandement lourd, surnommé "la Reine", conçu pour coordonner jusqu’à 10 drones légers de type UX-31.
+          Véritable commandant des airs sans pilote, le UX-50 est un drone stratégique conçu pour superviser des escadrons d’unités autonomes. Son interface d’essaim permet une guerre algorithmique à large échelle, une spécialité d’Azura.
         image: "/assets/aircrafts/ux50.png"
-
       - name: "UX-31 Revenant"
         role: "Prototype"
         manufacturer: "Krov Dynamics"
         year: "2025"
         speed: "Mach 1.2"
         description: |
-          Drone de chasse léger autonome, conçu pour l’essaim. Il agit en coordination avec le UX-50 pour des attaques en meute.
+          Léger, furtif et sacrificiel, le UX-31 est conçu pour submerger les défenses ennemies par la masse. Utilisé en conjonction avec le UX-50, il forme le cœur de la doctrine azurienne d'assaut en réseau.
         image: "/assets/aircrafts/ux31.png"
+      - name: "Su-KX"
+        role: "Prototype"
+        manufacturer: "Shukhoi"
+        year: "2026"
+        speed: "Mach 2.1"
+        description: |
+          Chasseur expérimental propulsé par IA avancée, le Su-KX peut coordonner un essaim de drones tout en engageant plusieurs cibles en combat rapproché. C’est une des premières incarnations concrètes de la doctrine azurienne de fusion homme-machine.
+        image: "/assets/aircrafts/sukx.png"
+      - name: "MiG-41"
+        role: "Chasseur"
+        manufacturer: "Migorov"
+        year: "2035"
+        speed: "Mach 4+"
+        description: |
+          Projet classifié de chasseur hypersonique, le MiG-41 vise à intercepter des cibles à très haute altitude et à des vitesses extrêmes. Véritable spectre du ciel, il incarne la volonté d’Azura de dominer l’espace aérien orbital.
+        image: "/assets/aircrafts/mig41.png"
 
   Talan:
     Intercepteur:
-      - name: "F-15C Eagle"
-        role: "Intercepteur"
-        manufacturer: "Eagletech"
-        year: "1976"
-        speed: "Mach 2.5"
-        description: |
-          Intercepteur lourd conçu pour la supériorité aérienne à haute vitesse et longue portée.
-        image: "/assets/aircrafts/f15c.png"
-
       - name: "F-14 Tomcat"
         role: "Intercepteur"
         manufacturer: "Fairwind Aerospace"
         year: "1974"
         speed: "Mach 2.34"
         description: |
-          Avion embarqué emblématique des années 70-90, spécialisé dans l’interception à longue portée avec ses missiles Phoenix.
+          Conçu à l’origine pour assurer la couverture aérienne des flottes de surface, le F-14 Tomcat est devenu une icône talanie de la guerre aéronavale. Son puissant radar à longue portée et ses missiles à guidage actif en ont fait l’un des plus redoutables intercepteurs de son époque, capable de repousser des vagues entières d’assaillants bien avant qu’ils n’approchent de leur cible.
         image: "/assets/aircrafts/f14.png"
+      - name: "F-15C Eagle"
+        role: "Intercepteur"
+        manufacturer: "Eagletech"
+        year: "1976"
+        speed: "Mach 2.5"
+        description: |
+          Pensé comme un pur-sang de la suprématie aérienne, le F-15C a marqué un tournant doctrinal dans l’aéronautique talanie : imposer la domination du ciel par la vitesse, la portée et la puissance de feu. Encore aujourd’hui, ses dérivés modernisés servent de piliers dans les missions de défense stratégique.
+        image: "/assets/aircrafts/f15c.png"
 
     Chasseur:
-      - name: "F-22 Raptor"
-        role: "Chasseur"
-        manufacturer: "Lockhead Martini"
-        year: "2005"
-        speed: "Mach 2.25"
-        description: |
-          Chasseur de 5e génération spécialisé dans la supériorité aérienne, furtif et très manœuvrable.
-        image: "/assets/aircrafts/f22.png"
-
-      - name: "F-16C Fighting Falcon"
-        role: "Chasseur"
-        manufacturer: "Lockhead Martini"
-        year: "1984"
-        speed: "Mach 2"
-        description: |
-          Chasseur léger emblématique, connu pour sa manœuvrabilité, son faible coût et sa large diffusion à l’export.
-        image: "/assets/aircrafts/f16.png"
-
-      - name: "J-20 Mighty Dragon"
-        role: "Chasseur"
-        manufacturer: "Chengfei United"
-        year: "2017"
-        speed: "Mach 2.0+"
-        description: |
-          Chasseur furtif de 5e génération, conçu pour pénétrer les défenses ennemies et dominer les affrontements à longue portée.
-        image: "/assets/aircrafts/j20.png"
-
-      - name: "YF-23 Black Widow"
-        role: "Chasseur"
-        manufacturer: "Fairwind Aerospace"
-        year: "1990"
-        speed: "Mach 2.2"
-        description: |
-          Prototype furtif avancé rival du F-22, possédant une silhouette innovante et une grande furtivité.
-        image: "/assets/aircrafts/yf23.png"
-
       - name: "F/A-18 Hornet"
         role: "Chasseur"
         manufacturer: "Fairwind Aerospace"
         year: "1983"
         speed: "Mach 1.8"
         description: |
-          Chasseur embarqué polyvalent utilisé pour la supériorité aérienne et l’attaque au sol, très utilisé par la marine.
+          Premier véritable chasseur multirôle embarqué de Talan, le Hornet incarne la doctrine de projection de puissance. Adapté aux opérations navales comme terrestres, il reste un choix fiable pour les missions de supériorité aérienne, d’escorte ou de frappe de précision.
         image: "/assets/aircrafts/f18.png"
+      - name: "F-16C Fighting Falcon"
+        role: "Chasseur"
+        manufacturer: "Lockhead Martini"
+        year: "1984"
+        speed: "Mach 2"
+        description: |
+          Ce chasseur léger est le symbole de l’export aérien talanien. Facile à maintenir, nerveux et redoutablement agile, il est utilisé par de nombreuses nations alliées pour renforcer rapidement leurs capacités de défense ou de dissuasion.
+        image: "/assets/aircrafts/f16.png"
+      - name: "F-22 Raptor"
+        role: "Chasseur"
+        manufacturer: "Lockhead Martini"
+        year: "2005"
+        speed: "Mach 2.25"
+        description: |
+          Véritable maître du ciel, le F-22 est le premier chasseur opérationnel à allier furtivité, manœuvrabilité extrême et détection passive. Sa présence sur le théâtre d’opérations suffit souvent à inverser le rapport de force, tant il est redouté pour ses capacités d’interception furtive.
+        image: "/assets/aircrafts/f22.png"
+      - name: "J-20 Mighty Dragon"
+        role: "Chasseur"
+        manufacturer: "Chengfei United"
+        year: "2017"
+        speed: "Mach 2.0+"
+        description: |
+          Le J-20 représente l’ambition de Talan à projeter sa puissance dans les zones les plus contestées du globe. Long rayon d’action, grande capacité d’emport et furtivité partielle en font un chasseur d’élite destiné aux premières vagues d’assaut dans les campagnes stratégiques.
+        image: "/assets/aircrafts/j20.png"
 
     Assault:
       - name: "A-10 Thunderbolt II"
@@ -289,46 +253,53 @@ aircrafts:
         year: "1977"
         speed: "706 km/h"
         description: |
-          Avion blindé conçu pour l'appui aérien rapproché avec un canon de 30 mm redoutable.
+          Aéronef blindé conçu pour le soutien des troupes au sol, le Thunderbolt II est surnommé "le Marteau" par les fantassins. Résistant aux tirs ennemis, capable de rester longtemps sur zone et équipé d’un canon rotatif dévastateur, il incarne l’appui rapproché dans sa forme la plus brute.
         image: "/assets/aircrafts/a10.png"
 
     Multirole:
-      - name: "F-35 Lightning II"
-        role: "Multirole"
-        manufacturer: "Lockhead Martini"
-        year: "2015"
-        speed: "Mach 1.6"
-        description: |
-          Chasseur multirôle furtif de 5e génération, compatible avec les opérations air-air, air-sol et guerre électronique.
-        image: "/assets/aircrafts/f35.png"
-
       - name: "J-10 Vigorous Dragon"
         role: "Multirole"
         manufacturer: "Chengfei United"
         year: "2005"
         speed: "Mach 2.0"
         description: |
-          Chasseur léger agile et abordable, conçu pour les forces aériennes régionales. Polyvalent et largement exporté.
+          Ce chasseur compact et agile a été développé pour répondre aux besoins croissants de flexibilité aérienne dans les zones périphériques de l’influence talanie. Robuste et fiable, il est souvent choisi par les forces d’intervention rapide ou les pays partenaires à budget limité.
         image: "/assets/aircrafts/j10.png"
+      - name: "F-35 Lightning II"
+        role: "Multirole"
+        manufacturer: "Lockhead Martini"
+        year: "2015"
+        speed: "Mach 1.6"
+        description: |
+          Le F-35 est le joyau du programme d’intégration numérique des forces aériennes talanies. Furtif, interconnecté et doté de capacités de guerre électronique avancées, il opère en essaim avec drones et plateformes alliées, incarnant la doctrine du champ de bataille fusionné.
+        image: "/assets/aircrafts/f35.png"
 
     Prototype:
+      - name: "YF-23 Black Widow"
+        role: "Chasseur"
+        manufacturer: "Fairwind Aerospace"
+        year: "1990"
+        speed: "Mach 2.2"
+        description: |
+          Prototype audacieux aux lignes avant-gardistes, le YF-23 a brièvement incarné la vision d’un chasseur furtif conçu pour la supériorité absolue. Malgré sa mise en sommeil, certains analystes affirment qu’il aurait servi de base à plusieurs projets secrets toujours classifiés.
+        image: "/assets/aircrafts/yf23.png"
       - name: "F-60 Edge"
         role: "Prototype"
         manufacturer: "Lockhead Martini"
         year: "2026"
         speed: "Mach 3"
         description: |
-          Projet avancé de chasseur spatial court-courrier capable de brèves incursions stratosphériques.
+          Développé en secret par la cellule expérimentale Skyspike, le F-60 est un chasseur orbital conçu pour opérer dans les couches supérieures de l’atmosphère. Véritable éclaireur des conflits du futur, il préfigure une nouvelle ère d’affrontements au seuil de l’espace.
         image: "/assets/aircrafts/f60.png"
-
       - name: "F-47 Titan"
         role: "Prototype"
         manufacturer: "Lockhead Martini"
         year: "2029"
         speed: "Mach 2.8"
         description: |
-          Chasseur furtif lourd de 6e génération, conçu pour surpasser tous les appareils ennemis en autonomie, détection et puissance de feu. Équipé de senseurs de champ de bataille, il peut servir de poste de commandement volant.
+          Le Titan représente l’aboutissement de la doctrine de suprématie intégrée de Talan. Conçu comme un poste de commandement volant, furtif et lourdement armé, il orchestre les opérations aériennes avec une autonomie stratégique, reliant drones, capteurs et satellites tactiques dans un réseau de guerre unifié.
         image: "/assets/aircrafts/f47.png"
+
     Bombardier:
       - name: "B-2 Spirit"
         role: "Bombardier"
@@ -336,16 +307,15 @@ aircrafts:
         year: "1997"
         speed: "Mach 0.95"
         description: |
-          Bombardier furtif stratégique capable de frappes nucléaires ou conventionnelles sur longue distance.
+          Le B-2 est le bombardier stratégique furtif de dissuasion par excellence. Capable de pénétrer les défenses les plus avancées, il transporte une charge massive d’armement conventionnel ou nucléaire, invisible jusqu’à l’instant de frappe.
         image: "/assets/aircrafts/b2.png"
-
       - name: "B-21 Raider"
         role: "Bombardier"
         manufacturer: "Fairwind Aerospace"
         year: "2028"
         speed: "Mach 1.0+"
         description: |
-          Bombardier furtif de nouvelle génération, destiné à remplacer le B-2, avec des capacités d’interopérabilité avancées.
+          Conçu pour succéder au Spirit, le Raider capitalise sur une furtivité accrue et des capacités de commandement de groupe. Il est capable d’opérer en tandem avec des drones d’assaut autonomes, ouvrant la voie à des campagnes aériennes entièrement coordonnées sans contact visuel.
         image: "/assets/aircrafts/b21.png"
 
   Doria:
@@ -356,7 +326,7 @@ aircrafts:
         year: "1974"
         speed: "Mach 2"
         description: |
-          Intercepteur suédois emblématique conçu pour une montée rapide et des interceptions à haute altitude.
+          Intercepteur emblématique de Doria, reconnu pour sa rapidité de montée et sa capacité à intercepter efficacement les menaces à haute altitude. Son design aérodynamique unique favorise une agilité remarquable, idéal pour protéger l’espace aérien dorien avec efficacité.
         image: "/assets/aircrafts/j35.png"
 
     Chasseur:
@@ -366,35 +336,33 @@ aircrafts:
         year: "2008"
         speed: "Mach 2"
         description: |
-          Version optimisée du Gripen pour le combat aérien pur, avec avionique avancée et signature radar réduite.
+          Chasseur léger conçu pour exceller dans les combats aériens purs. Il allie avionique avancée et faible signature radar, permettant aux pilotes d’effectuer des missions de supériorité aérienne avec précision et discrétion. Sa modularité permet des adaptations rapides selon les besoins tactiques.
         image: "/assets/aircrafts/gripen_c.png"
 
     Multirole:
-      - name: "Gripen NG"
-        role: "Multirole"
-        manufacturer: "Seeb"
-        year: "2016"
-        speed: "Mach 2"
-        description: |
-          Chasseur multirôle Dorien moderne, léger et très maniable, optimisé pour l'efficacité et la rapidité de déploiement.
-        image: "/assets/aircrafts/gripen.png"
-
       - name: "Eurofighter Typhoon"
         role: "Multirole"
         manufacturer: "Dattack Aviation / Seeb"
         year: "2003"
         speed: "Mach 2"
         description: |
-          Avion multirôle Meridio-Alydien employé dans la doctrine d’interopérabilité Doriane. Très maniable, il couvre aussi bien l’air-air que l’attaque au sol.
+          Avion multirôle employé dans la doctrine dorienne d’interopérabilité avec ses alliés. Sa maniabilité supérieure et ses systèmes polyvalents lui permettent de maîtriser aussi bien la supériorité aérienne que les frappes au sol, faisant de lui un pilier des forces aériennes doriennes.
         image: "/assets/aircrafts/eurofighter.png"
-
+      - name: "Gripen NG"
+        role: "Multirole"
+        manufacturer: "Seeb"
+        year: "2016"
+        speed: "Mach 2"
+        description: |
+          Chasseur multirôle moderne, léger et agile, optimisé pour une efficacité maximale en déploiement rapide. Il excelle dans la guerre électronique et le combat au-delà de la portée visuelle, parfaitement adapté aux doctrines flexibles de Doria.
+        image: "/assets/aircrafts/gripen.png"
       - name: "Gripen E"
         role: "Multirole"
         manufacturer: "Seeb"
         year: "2021"
         speed: "Mach 2"
         description: |
-          Évolution avancée du Gripen, intégrant des capteurs modernisés et une capacité de guerre en réseau.
+          Évolution avancée du Gripen NG, intégrant des capteurs nouvelle génération et une architecture de guerre en réseau permettant des opérations coordonnées en temps réel. Véritable concentré de technologies, il symbolise l’adaptabilité et la modernité des forces aériennes doriennes.
         image: "/assets/aircrafts/gripen_e.png"
 
     Prototype:
@@ -404,5 +372,5 @@ aircrafts:
         year: "2024"
         speed: "Mach 2.5"
         description: |
-          Conception futuriste pour des interceptions ultra-rapides de drones à moyenne altitude.
+          Conçu pour répondre aux menaces émergentes des essaims de drones, ce prototype futuriste mise sur la vitesse et la précision pour intercepter rapidement des cibles à moyenne altitude. Véritable sentinelle du ciel dorien, il incarne l’avant-garde technologique dans la lutte anti-drone.
         image: "/assets/aircrafts/lupus.png"
