@@ -124,7 +124,7 @@ export default function Map() {
 
 
   return (
-    <section className="map-wrapper container section-panel">
+    <main className="container">
       <h3>Map of Ironwings Frontline</h3>
 
       <div className="tabs">
@@ -175,6 +175,6 @@ export default function Map() {
           )}
         </TransformWrapper>
       </div>
-    </section>
+    </main>
   );
 }
