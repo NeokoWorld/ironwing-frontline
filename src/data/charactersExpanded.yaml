@@ -1,15 +1,45 @@
 characters:
-  - name: "placeholder"
-    nation: "placeholder"
-    slug: "placeholder"
-    role: "placeholder"
-    age: "placeholder"
-    origine: "placeholder"
-    statut: "placeholder"
-    image: "/assets/characters/kael-draven.png"
+  #- name: "placeholder"
+  #  nation: "placeholder"
+  #  slug: "placeholder"
+  #  role: "placeholder"
+  #  age: "placeholder"
+  #  origine: "placeholder"
+  #  statut: "placeholder"
+  #  image: "/assets/characters/kael-draven.png"
+  #  relations:
+  #    - "placeholder"
+  #  histoire: |
+  #    placeholder
+  #  description: |
+  #    placeholder
+
+  - name: "Kieran Solas"
+    nation: "Doria"
+    slug: "kieran-solas"
+    role: "Captain of the Phoenix Squadron of the WMP"
+    age: "34"
+    origine: "Solana"
+    statut: "Alive"
+    image: "/assets/characters/kieran-solas.png"
     relations:
       - "placeholder"
     histoire: |
-      placeholder
+      Kieran graduated from the Solanian Aeronaval Academy at the age of 23. His first deployment sent him into the heart of Ansium’s civil conflict in late 2013.
+      
+      While stationed on an airbase under Solanian control, he uncovered a dark truth: an extremist faction within the Solanian government and military was constructing a massive orbital laser platform, codenamed **HYPERION**. Its intended purpose was nothing short of genocide—targeting the Pro-Azura population of Ansium.
+      
+      Faced with a moral crossroads, Kieran made a drastic choice. Under the cover of night, he stole the experimental VF-27 prototype stationed at his base and defected. Seeking to stop the impending atrocity, he joined the rogue resistance group Chimera.
+      
+      Together, they launched a covert campaign against HYPERION. Against all odds, Kieran and Chimera succeeded in destroying the orbital weapon, effectively forcing Solana to withdraw from the war.
+      
+      As a result, Kieran—once labeled a traitor—was hailed as a hero by the international community. Doria and Talan offered Chimera amnesty and invited them to form the first peacekeeping squadron of the newly founded World Movement for Peace (WMP): the Phoenix Squadron.
+      
+      Kieran accepted the offer, gaining political immunity from Solana's prosecution. To this day, opinions remain divided—some see him as a deserter, others as the man who prevented a massacre.
     description: |
-      placeholder
+      
+      Kieran is known among his peers by the callsign Kestrel, earned for his sharp reflexes and affinity for high-altitude interception missions. Despite his reputation as a skilled pilot, he tends to get nervous before big operations, often relying on a small blue ribbon he keeps in his flight suit pocket for luck. 
+      
+      Outside of combat, he is surprisingly talkative and enjoys discussing aircraft engineering. His VF-27 remains one of the few prototypes ever stolen successfully from a Solanian facility. He has a habit of doodling aircraft silhouettes in mission briefings and has an extensive collection of naval model ships he builds during downtime.
+      
+      Although he has been offered citizenship in both Doria and Talan, he still considers himself Solanian at heart, despite being officially exiled. His Phoenix Squadron helmet is decorated with a stylized blue kestrel in flight, a personal emblem that became symbolic of his defection and later redemption.

@@ -1,6 +1,12 @@
 characters:
-  - name: "placeholder"
-    nation: "placeholder"
-    slug: "placeholder"
-    role: "placeholder"
-    shortBio: "placeholder"
+  #- name: "placeholder"
+  #  nation: "placeholder"
+  #  slug: "placeholder"
+  #  role: "placeholder"
+  #  shortBio: "placeholder"
+
+  - name: "Kieran Solas"
+    nation: "Doria"
+    slug: "kieran-solas"
+    role: "Captain of the Phoenix Squadron of the WMP"
+    shortBio: "Former pilot of the Solanian Aeronaval, he's either seen as a war hero or a deserter depending on the point of view."

@@ -41,8 +41,7 @@ nav a:hover {
 }
 
 main {
-  max-width: 960px;
-  min-width: 520px; /* largeur minimale pour smartphone */
+  max-width: 990px;
   margin: auto;
   padding: 0 0.8rem; /* espace horizontal sur petits écrans */
   box-sizing: border-box;
@@ -73,36 +72,6 @@ section {
   flex: 1;
 }
 
-/* === Tabs (continents) === */
-.continent-tabs {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  justify-content: center;
-  margin-bottom: 2rem;
-}
-
-.continent-tabs button {
-  padding: 0.5rem 1rem;
-  background: var(--color-secondary);
-  border: 1px solid #444;
-  border-radius: 6px;
-  cursor: pointer;
-  color: var(--color-text);
-  transition: background 0.2s, color 0.2s;
-}
-
-.continent-tabs button:hover {
-  background: #3a7ca5;
-  color: white;
-}
-
-.continent-tabs button.active {
-  background: var(--color-accent);
-  color: white;
-  font-weight: bold;
-}
-
 /* === Category Toggle (accordéon) === */
 .category {
   margin-bottom: 2rem;
@@ -128,7 +97,7 @@ section {
 /* Container général */
 .container {
   padding: 1.5rem;
-  max-width: 960px;
+  max-width: 990px;
   margin: auto;
   color: var(--color-text);
 }
@@ -162,6 +131,11 @@ section {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.grid-responsive-row {
+  display: grid;
+  gap: 1rem;
 }
 
 /* === Card universelle === */
@@ -285,7 +259,7 @@ section {
   color: var(--color-text);
   padding: 2rem;
   border-radius: 10px;
-  max-width: 950px;
+  max-width: 990px;
   width: 100%; /* prend toute la largeur possible */
   max-height: 80vh;
   overflow-y: auto;

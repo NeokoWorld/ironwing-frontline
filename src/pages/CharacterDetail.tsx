@@ -27,8 +27,9 @@ export default function CharacterDetailPage() {
       <p><strong>Status :</strong> {character.statut}</p>
       <p><strong>Relationships :</strong> {character.relations.join(', ')}</p>
 
-      <h3>Biography and Infos</h3>
+      <h3>Biography</h3>
       <ReactMarkdown>{character.histoire}</ReactMarkdown>
+      <h3>Other Infos</h3>
       <ReactMarkdown>{character.description}</ReactMarkdown>
     </main>
   );
