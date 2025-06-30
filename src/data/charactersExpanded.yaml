@@ -1,31 +1,15 @@
 characters:
-  - name: "Elyra Vex"
-    slug: "elyra-vex"
-    affiliation: "République d'Alydent"
-    role: "Ambassadrice"
-    age: "42"
-    origine: "Vahria"
-    statut: "Active"
-    image: "/assets/characters/elyra-vex.png"
-    relations:
-      - "Kael Draven (ennemi politique)"
-      - "Selene Arkan (alliée stratégique)"
-    histoire: |
-      Née dans les quartiers nobles de Vahria, Elyra a étudié les arts de la rhétorique et de la diplomatie dès son plus jeune âge...
-    description: |
-      **Elyra Vex** est l'une des figures les plus influentes d'Alydent. En tant qu’ambassadrice, elle maîtrise l’art du compromis et du mensonge. Malgré son apparence froide, elle cache un lourd passé...
-
-  - name: "Kael Draven"
-    affiliation: "Coalition de Nordine"
-    slug: "kael-draven"
-    role: "Commandant"
-    age: "37"
-    origine: "Fort Helgar"
-    statut: "En service"
+  - name: "placeholder"
+    nation: "placeholder"
+    slug: "placeholder"
+    role: "placeholder"
+    age: "placeholder"
+    origine: "placeholder"
+    statut: "placeholder"
     image: "/assets/characters/kael-draven.png"
     relations:
-      - "Elyra Vex (rivalité ancienne)"
+      - "placeholder"
     histoire: |
-      Kael a gravi les échelons de l'armée à une vitesse fulgurante, motivé par un sens de l'ordre absolu et une haine profonde des bureaucrates...
+      placeholder
     description: |
-      Connu pour ses méthodes expéditives, **Kael Draven** dirige ses troupes avec une autorité incontestée. Il est craint autant que respecté...
+      placeholder
