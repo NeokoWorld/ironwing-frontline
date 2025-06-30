@@ -102,8 +102,8 @@ function NationModal({
         <p>
           <strong>Relations :</strong> {nation.relations.join(', ')}
         </p>
-        <h3>Histoire</h3>
-        <p>{nation.histoire}</p>
+        <h3>History</h3>
+        <p>{nation.history}</p>
         <h3>Description</h3>
         <ReactMarkdown>{nation.description}</ReactMarkdown>
       </div>
