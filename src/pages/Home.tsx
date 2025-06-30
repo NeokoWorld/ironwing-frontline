@@ -1,17 +1,17 @@
 export default function Home() {
   const news = [
-    { date: '26 juin', content: 'Page Avions fonctionnelle' },
-    { date: '25 juin', content: 'Page Personnages fonctionnelle (Placeholders)' },
-    { date: '25 juin', content: 'Page Nations fonctionnelle' },
-    { date: '25 juin', content: 'Création du Site' },
+    { date: '27 juin', content: 'Timeline page working' },
+    { date: '26 juin', content: 'Planes page working' },
+    { date: '25 juin', content: 'Characters page working (with placeholder characters)' },
+    { date: '25 juin', content: 'Nations page working' },
+    { date: '25 juin', content: 'Website creation' },
   ];
 
   return (
     <div className="container">
-      <p className="intro-text">Bienvenue sur Ironwings Frontline !</p>
+      <p className="intro-text">Welcome on Ironwings Frontline !</p>
       <p>
-        Ce site est uniquement en français pour l'instant/This website is only
-        in french for now
+        WIP parts are in french.
       </p>
 
       <section className="section-panel">

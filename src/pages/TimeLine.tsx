@@ -75,7 +75,7 @@ export default function TimeLine() {
 
   return (
     <main className="timeline-container">
-      <h1 className="intro-text">Frise chronologique</h1>
+      <h1 className="intro-text">Timeline of Ironwings Frontline</h1>
 
       <div className="timeline-bar">
         {/* Ligne principale horizontale */}

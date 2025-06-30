@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function CharactersPage() {
   return (
     <main className="container">
-      <h1 className="intro-text">Personnages</h1>
+      <h1 className="intro-text">Characters of Ironwing Frontline</h1>
       <section className="card-grid">
         {charactersData.map((char: any) => (
           <Link key={char.slug} to={`/characters/${char.slug}`} className="card-link">

@@ -17,13 +17,13 @@ function AircraftCard({ aircraft, onClick }: { aircraft: Aircraft; onClick: () =
     <div className="card news-card" onClick={onClick} style={{ cursor: 'pointer' }}>
       <h3>{aircraft.name}</h3>
       <p>
-        <strong>Rôle :</strong> {aircraft.role}
+        <strong>Role :</strong> {aircraft.role}
       </p>
       <p>
-        <strong>Année :</strong> {aircraft.year}
+        <strong>Year :</strong> {aircraft.year}
       </p>
       <p>
-        <strong>Vitesse :</strong> {aircraft.speed}
+        <strong>Speed :</strong> {aircraft.speed}
       </p>
     </div>
   );
@@ -68,10 +68,10 @@ function AircraftModal({ aircraft, onClose }: { aircraft: Aircraft; onClose: () 
           alt={`Image de ${aircraft.name}`}
           style={{ width: '200px', marginBottom: '1rem' }}
         />
-        <p><strong>Rôle :</strong> {aircraft.role}</p>
-        <p><strong>Fabricant :</strong> {aircraft.manufacturer}</p>
-        <p><strong>Année :</strong> {aircraft.year}</p>
-        <p><strong>Vitesse :</strong> {aircraft.speed}</p>
+        <p><strong>Role :</strong> {aircraft.role}</p>
+        <p><strong>Manufacturer :</strong> {aircraft.manufacturer}</p>
+        <p><strong>Year :</strong> {aircraft.year}</p>
+        <p><strong>Speed :</strong> {aircraft.speed}</p>
         <h3>Description</h3>
         <ReactMarkdown>{aircraft.description}</ReactMarkdown>
       </div>
@@ -87,7 +87,7 @@ export default function AircraftsPage() {
 
   return (
     <main className="container">
-      <h1 className="intro-text">Appareils militaires</h1>
+      <h1 className="intro-text">Aircrafts of Ironwings Frontline</h1>
 
       <nav className="tabs" style={{ marginBottom: '2rem' }}>
         {countries.map((c) => (

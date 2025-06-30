@@ -131,9 +131,9 @@ export default function NationsPage() {
 
   return (
     <main className="container">
-      <h1 className="intro-text">Nations</h1>
+      <h1 className="intro-text">Nations of Ironwings Frontline</h1>
       <p>
-        Il est possible de cliquer sur les cartes pour avoir plus d'information
+        You can click on a card to get more infos
       </p>
       <nav className="tabs" style={{ marginBottom: '2rem' }}>
         {continents.map((c) => (
