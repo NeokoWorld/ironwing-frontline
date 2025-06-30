@@ -1,5 +1,6 @@
 export default function Home() {
   const news = [
+    { date: '30 juin', content: 'Most of the pages has been translated in english' },
     { date: '27 juin', content: 'Timeline page working' },
     { date: '26 juin', content: 'Planes page working' },
     { date: '25 juin', content: 'Characters page working (with placeholder characters)' },
