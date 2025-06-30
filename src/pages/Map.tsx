@@ -125,7 +125,7 @@ export default function Map() {
 
   return (
     <main className="container">
-      <h3>Map of Ironwings Frontline</h3>
+      <h1>Map of Ironwings Frontline</h1>
 
       <div className="tabs">
         <button
