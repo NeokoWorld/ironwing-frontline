@@ -271,7 +271,7 @@ aircrafts:
         year: "2015"
         speed: "Mach 1.6"
         description: |
-          Le F-35 est le joyau du programme d’intégration numérique des forces aériennes talanies. Furtif, interconnecté et doté de capacités de guerre électronique avancées, il opère en essaim avec drones et plateformes alliées, incarnant la doctrine du champ de bataille fusionné.
+          The F-35 is the crown jewel of Talan’s digital integration program for air forces. Stealthy, interconnected, and equipped with advanced electronic warfare capabilities, it operates in swarms alongside drones and allied platforms.
         image: "/assets/aircrafts/f35.png"
 
     Prototypes:
@@ -281,7 +281,7 @@ aircrafts:
         year: "1990"
         speed: "Mach 2.2"
         description: |
-          Prototype audacieux aux lignes avant-gardistes, le YF-23 a brièvement incarné la vision d’un chasseur furtif conçu pour la supériorité absolue. Malgré sa mise en sommeil, certains analystes affirment qu’il aurait servi de base à plusieurs projets secrets toujours classifiés.
+          A prototype with futuristic lines, the YF-23 briefly embodied the vision of a stealth fighter designed for absolute superiority. Despite being shelved, some analysts claim it served as the foundation for several still-classified black projects.
         image: "/assets/aircrafts/yf23.png"
       - name: "F-60 Edge"
         role: "Prototype"
@@ -289,7 +289,7 @@ aircrafts:
         year: "2026"
         speed: "Mach 3"
         description: |
-          Développé en secret par la cellule expérimentale Skyspike, le F-60 est un chasseur orbital conçu pour opérer dans les couches supérieures de l’atmosphère. Véritable éclaireur des conflits du futur, il préfigure une nouvelle ère d’affrontements au seuil de l’espace.
+          Developed in secret by the experimental Skyspike unit, the F-60 is an orbital fighter designed to operate in the upper layers of the atmosphere. A true scout of future conflicts, it heralds a new era of battles on the edge of space.
         image: "/assets/aircrafts/f60.png"
       - name: "F-47 Titan"
         role: "Prototype"
@@ -297,26 +297,8 @@ aircrafts:
         year: "2029"
         speed: "Mach 2.8"
         description: |
-          Le Titan représente l’aboutissement de la doctrine de suprématie intégrée de Talan. Conçu comme un poste de commandement volant, furtif et lourdement armé, il orchestre les opérations aériennes avec une autonomie stratégique, reliant drones, capteurs et satellites tactiques dans un réseau de guerre unifié.
+          The Titan represents the culmination of Talan’s integrated supremacy doctrine. Designed as a stealthy, heavily armed flying command post, it orchestrates air operations with strategic autonomy, linking drones, sensors, and tactical satellites in a unified warfare network.
         image: "/assets/aircrafts/f47.png"
-
-    Bombers:
-      - name: "B-2 Spirit"
-        role: "Bomber"
-        manufacturer: "Fairwind Aerospace"
-        year: "1997"
-        speed: "Mach 0.95"
-        description: |
-          Le B-2 est le bombardier stratégique furtif de dissuasion par excellence. Capable de pénétrer les défenses les plus avancées, il transporte une charge massive d’armement conventionnel ou nucléaire, invisible jusqu’à l’instant de frappe.
-        image: "/assets/aircrafts/b2.png"
-      - name: "B-21 Raider"
-        role: "Bomber"
-        manufacturer: "Fairwind Aerospace"
-        year: "2028"
-        speed: "Mach 1.0+"
-        description: |
-          Conçu pour succéder au Spirit, le Raider capitalise sur une furtivité accrue et des capacités de commandement de groupe. Il est capable d’opérer en tandem avec des drones d’assaut autonomes, ouvrant la voie à des campagnes aériennes entièrement coordonnées sans contact visuel.
-        image: "/assets/aircrafts/b21.png"
 
   Doria:
     Interceptors:
@@ -326,7 +308,7 @@ aircrafts:
         year: "1974"
         speed: "Mach 2"
         description: |
-          Intercepteur emblématique de Doria, reconnu pour sa rapidité de montée et sa capacité à intercepter efficacement les menaces à haute altitude. Son design aérodynamique unique favorise une agilité remarquable, idéal pour protéger l’espace aérien dorien avec efficacité.
+          Doria’s iconic interceptor, known for its rapid climb rate and ability to effectively intercept high-altitude threats. Its unique aerodynamic design promotes remarkable agility, making it ideal for efficiently protecting Dorian airspace.
         image: "/assets/aircrafts/j35.png"
 
     Fighters:
@@ -336,7 +318,7 @@ aircrafts:
         year: "2008"
         speed: "Mach 2"
         description: |
-          Chasseur léger conçu pour exceller dans les combats aériens purs. Il allie avionique avancée et faible signature radar, permettant aux pilotes d’effectuer des missions de supériorité aérienne avec précision et discrétion. Sa modularité permet des adaptations rapides selon les besoins tactiques.
+          A light fighter designed to excel in pure aerial combat. It combines advanced avionics and a low radar signature, enabling pilots to carry out air superiority missions with precision and stealth. Its modularity allows for rapid adaptations according to tactical needs.
         image: "/assets/aircrafts/gripen_c.png"
 
     Multiroles:
@@ -346,7 +328,7 @@ aircrafts:
         year: "2003"
         speed: "Mach 2"
         description: |
-          Avion multirôle employé dans la doctrine dorienne d’interopérabilité avec ses alliés. Sa maniabilité supérieure et ses systèmes polyvalents lui permettent de maîtriser aussi bien la supériorité aérienne que les frappes au sol, faisant de lui un pilier des forces aériennes doriennes.
+          A multirole aircraft employed in Doria’s doctrine of interoperability with its allies. Its superior maneuverability and versatile systems enable it to excel in both air superiority and ground strikes, making it a cornerstone of Dorian air forces.
         image: "/assets/aircrafts/eurofighter.png"
       - name: "Gripen NG"
         role: "Multirole"
@@ -354,23 +336,15 @@ aircrafts:
         year: "2016"
         speed: "Mach 2"
         description: |
-          Chasseur multirôle moderne, léger et agile, optimisé pour une efficacité maximale en déploiement rapide. Il excelle dans la guerre électronique et le combat au-delà de la portée visuelle, parfaitement adapté aux doctrines flexibles de Doria.
+          A modern multirole fighter, light and agile, optimized for maximum efficiency in rapid deployment. It excels in electronic warfare and beyond-visual-range combat, perfectly suited to Doria’s flexible doctrines.
         image: "/assets/aircrafts/gripen.png"
-      - name: "Gripen E"
-        role: "Multirole"
-        manufacturer: "Seeb"
-        year: "2021"
-        speed: "Mach 2"
-        description: |
-          Évolution avancée du Gripen NG, intégrant des capteurs nouvelle génération et une architecture de guerre en réseau permettant des opérations coordonnées en temps réel. Véritable concentré de technologies, il symbolise l’adaptabilité et la modernité des forces aériennes doriennes.
-        image: "/assets/aircrafts/gripen_e.png"
 
     Prototypes:
       - name: "Lupus"
         role: "Prototype"
         manufacturer: "Seeb"
-        year: "2024"
+        year: "2023"
         speed: "Mach 2.5"
         description: |
-          Conçu pour répondre aux menaces émergentes des essaims de drones, ce prototype futuriste mise sur la vitesse et la précision pour intercepter rapidement des cibles à moyenne altitude. Véritable sentinelle du ciel dorien, il incarne l’avant-garde technologique dans la lutte anti-drone.
+          Designed to counter emerging threats from drone swarms, this futuristic prototype relies on speed and precision to rapidly intercept targets at medium altitude. A true sentinel of Dorian skies, it embodies the technological forefront in anti-drone warfare.
         image: "/assets/aircrafts/lupus.png"
