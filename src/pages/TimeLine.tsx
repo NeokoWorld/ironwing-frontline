@@ -154,10 +154,10 @@ function EventModal({
         </button>
         <h2>{event.title}</h2>
         <p>
-          <strong>Période :</strong> {event.years}
+          <strong>Time period :</strong> {event.years}
         </p>
         <p>{event.summary}</p>
-        <h3>Conséquences</h3>
+        <h3>Consequences</h3>
         <ul>
           {event.consequences.map((item, idx) => (
             <li key={idx}>{item}</li>

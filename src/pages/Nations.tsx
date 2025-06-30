@@ -74,30 +74,30 @@ function NationModal({
         </button>
         <h2>{nation.name}</h2>
         <img
-          src={nation.drapeau}
-          alt={`Drapeau de ${nation.name}`}
+          src={nation.flag}
+          alt={`Flag of ${nation.name}`}
           style={{ width: '150px', marginBottom: '1rem' }}
         />
         <p>
           <strong>Continent :</strong> {nation.continent}
         </p>
         <p>
-          <strong>Catégorie :</strong> {nation.categorie}
+          <strong>Category :</strong> {nation.category}
         </p>
         <p>
           <strong>Bloc :</strong> {nation.bloc}
         </p>
         <p>
-          <strong>Capitale :</strong> {nation.capitale}
+          <strong>Capital :</strong> {nation.capital}
         </p>
         <p>
           <strong>Population :</strong> {nation.population}
         </p>
         <p>
-          <strong>Gouvernement :</strong> {nation.gouvernement}
+          <strong>Government :</strong> {nation.government}
         </p>
         <p>
-          <strong>Militaire :</strong> {nation.militaire}
+          <strong>Military :</strong> {nation.military}
         </p>
         <p>
           <strong>Relations :</strong> {nation.relations.join(', ')}
