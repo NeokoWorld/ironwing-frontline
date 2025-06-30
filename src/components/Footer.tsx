@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer-container">
         <p>© 2025 Ironwings Frontline. Tous droits réservés.</p>
         <p>
-          Créé par{' '}
+          Create by{' '}
           <a
             href="https://artfight.net/~Serafins"
             target="_blank"

@@ -21,12 +21,12 @@ export default function Header() {
         </button>
 
         <nav className={`site-nav ${menuOpen ? 'open' : ''}`}>
-          <NavLink to="/" label="Accueil" />
-          <NavLink to="/map" label="Carte" />
-          <NavLink to="/characters" label="Personnages" />
+          <NavLink to="/" label="Home" />
+          <NavLink to="/map" label="Map" />
+          <NavLink to="/characters" label="Characters" />
           <NavLink to="/nations" label="Nations" />
-          <NavLink to="/aircrafts" label="Avions" />
-          <NavLink to="/timeline" label="Chronologie" />
+          <NavLink to="/aircrafts" label="Aircrafts" />
+          <NavLink to="/timeline" label="Timeline" />
         </nav>
       </div>
     </header>
