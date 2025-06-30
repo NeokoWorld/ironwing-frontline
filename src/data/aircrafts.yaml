@@ -201,7 +201,7 @@ aircrafts:
         year: "1974"
         speed: "Mach 2.34"
         description: |
-          Conçu à l’origine pour assurer la couverture aérienne des flottes de surface, le F-14 Tomcat est devenu une icône talanie de la guerre aéronavale. Son puissant radar à longue portée et ses missiles à guidage actif en ont fait l’un des plus redoutables intercepteurs de son époque, capable de repousser des vagues entières d’assaillants bien avant qu’ils n’approchent de leur cible.
+          Originally designed to provide air cover for surface fleets, the F-14 Tomcat has become a Talan icon of naval air warfare. Its powerful long-range radar and active-guidance missiles made it one of the most formidable interceptors of its time, capable of repelling waves of attackers long before they reached their target.
         image: "/assets/aircrafts/f14.png"
       - name: "F-15C Eagle"
         role: "Interceptor"
@@ -209,7 +209,7 @@ aircrafts:
         year: "1976"
         speed: "Mach 2.5"
         description: |
-          Pensé comme un pur-sang de la suprématie aérienne, le F-15C a marqué un tournant doctrinal dans l’aéronautique talanie : imposer la domination du ciel par la vitesse, la portée et la puissance de feu. Encore aujourd’hui, ses dérivés modernisés servent de piliers dans les missions de défense stratégique.
+          Conceived as a thoroughbred of air superiority, the F-15C marked a doctrinal shift in Talan aeronautics: asserting control of the skies through speed, range, and firepower. Even today, its modernized variants remain pillars of strategic defense missions.
         image: "/assets/aircrafts/f15c.png"
 
     Fighters:
@@ -219,7 +219,7 @@ aircrafts:
         year: "1983"
         speed: "Mach 1.8"
         description: |
-          Premier véritable chasseur multirôle embarqué de Talan, le Hornet incarne la doctrine de projection de puissance. Adapté aux opérations navales comme terrestres, il reste un choix fiable pour les missions de supériorité aérienne, d’escorte ou de frappe de précision.
+          Talan’s first true carrier-based multirole fighter, the Hornet embodies the doctrine of power projection. Suited for both naval and land operations, it remains a reliable choice for air superiority, escort, and precision strike missions.
         image: "/assets/aircrafts/f18.png"
       - name: "F-16C Fighting Falcon"
         role: "Fighter"
@@ -227,7 +227,7 @@ aircrafts:
         year: "1984"
         speed: "Mach 2"
         description: |
-          Ce chasseur léger est le symbole de l’export aérien talanien. Facile à maintenir, nerveux et redoutablement agile, il est utilisé par de nombreuses nations alliées pour renforcer rapidement leurs capacités de défense ou de dissuasion.
+          This light fighter is the symbol of Talanian aerospace exports. Easy to maintain, responsive, and remarkably agile, it is used by many allied nations to quickly boost their defense or deterrence capabilities.
         image: "/assets/aircrafts/f16.png"
       - name: "F-22 Raptor"
         role: "Fighter"
@@ -235,7 +235,7 @@ aircrafts:
         year: "2005"
         speed: "Mach 2.25"
         description: |
-          Véritable maître du ciel, le F-22 est le premier chasseur opérationnel à allier furtivité, manœuvrabilité extrême et détection passive. Sa présence sur le théâtre d’opérations suffit souvent à inverser le rapport de force, tant il est redouté pour ses capacités d’interception furtive.
+          A true master of the skies, the F-22 is the first operational fighter to combine stealth, extreme maneuverability, and passive detection. Its presence on the battlefield is often enough to shift the balance of power, so feared is it for its stealth interception capabilities.
         image: "/assets/aircrafts/f22.png"
       - name: "J-20 Mighty Dragon"
         role: "Fighter"
@@ -243,7 +243,7 @@ aircrafts:
         year: "2017"
         speed: "Mach 2.0+"
         description: |
-          Le J-20 représente l’ambition de Talan à projeter sa puissance dans les zones les plus contestées du globe. Long rayon d’action, grande capacité d’emport et furtivité partielle en font un chasseur d’élite destiné aux premières vagues d’assaut dans les campagnes stratégiques.
+          The J-20 represents Talan’s ambition to project power into the most contested regions of the globe. Its long range, high payload capacity, and partial stealth make it an elite fighter designed for the first assault waves in strategic campaigns.
         image: "/assets/aircrafts/j20.png"
 
     Assaults:
@@ -253,7 +253,7 @@ aircrafts:
         year: "1977"
         speed: "706 km/h"
         description: |
-          Aéronef blindé conçu pour le soutien des troupes au sol, le Thunderbolt II est surnommé "le Marteau" par les fantassins. Résistant aux tirs ennemis, capable de rester longtemps sur zone et équipé d’un canon rotatif dévastateur, il incarne l’appui rapproché dans sa forme la plus brute.
+          An armored aircraft designed for ground troop support, the Thunderbolt II is nicknamed “The Hammer” by infantry. Resistant to enemy fire, able to loiter over the battlefield for extended periods, and equipped with a devastating rotary cannon, it embodies close air support in its rawest form.
         image: "/assets/aircrafts/a10.png"
 
     Multiroles:
@@ -263,7 +263,7 @@ aircrafts:
         year: "2005"
         speed: "Mach 2.0"
         description: |
-          Ce chasseur compact et agile a été développé pour répondre aux besoins croissants de flexibilité aérienne dans les zones périphériques de l’influence talanie. Robuste et fiable, il est souvent choisi par les forces d’intervention rapide ou les pays partenaires à budget limité.
+          This compact and agile fighter was developed to meet the growing need for aerial flexibility in the peripheral zones of Talanian influence. Rugged and reliable, it is often chosen by rapid response forces or partner nations with limited budgets.
         image: "/assets/aircrafts/j10.png"
       - name: "F-35 Lightning II"
         role: "Multirole"

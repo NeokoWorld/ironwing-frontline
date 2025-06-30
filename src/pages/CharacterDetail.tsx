@@ -8,8 +8,7 @@ export default function CharacterDetailPage() {
   const character = charactersExpandedData.find((c: any) => c.slug === slug);
 
   if (!character) {
-    return <h1>Error 404, Character not Found.</h1>;
-           <p>Oups ! You seem to try to access to a page that does not exist. You may have mispelled it. If you think this is an error, fill an <a href='https://github.com/NeokoWorld/ironwing-frontline/issues' target='_blank'>issue</a> on Github.</p>;
+    return (<p><h1>Error 404, Character not Found.</h1>Oups ! You seem to try to access to a page that does not exist. You may have mispelled it. If you think this is an error, fill an <a href='https://github.com/NeokoWorld/ironwing-frontline/issues' target='_blank'>issue</a> on Github.</p>;)
   }
 
   return (
