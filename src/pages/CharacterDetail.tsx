@@ -20,10 +20,11 @@ export default function CharacterDetailPage() {
         alt={character.name}
         style={{ maxWidth: '200px', marginBottom: '1rem', borderRadius: '8px' }}
       />
+      <p><strong>Age :</strong> {character.age}</p>
       <p><strong>Nation :</strong> {character.nation}</p>
       <p><strong>Role :</strong> {character.role}</p>
+      <p><strong>Origin :</strong> {character.origine}</p>
       <p><strong>Status :</strong> {character.statut}</p>
-      <p><strong>Alignement :</strong> {character.alignement}</p>
       <p><strong>Relationships :</strong> {character.relations.join(', ')}</p>
 
       <h3>Biography and Infos</h3>
