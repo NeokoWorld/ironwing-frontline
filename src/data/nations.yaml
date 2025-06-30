@@ -1,126 +1,125 @@
 Alydent:
-  Grandes_Puissances:
-    - name: "Royaume de Doria"
-      bloc: "Pacte de l’Égide"
+  Great_Powers:
+    - name: "Kingdom of Doria"
+      bloc: "Aegis Pact"
       markdown: |
-        Profondément anti-drone ou UCAV. Investit beaucoup dans des chasseurs spécialisés pour abattre des drones. Très doué en VTOL.
-        Garde une politique qui se veut neutre et d’arbitre. Historiquement, les conflits qui n’impliquent pas Doria voient leurs traités être signés à Doria.
-  Nations_Majeures:
-    - name: "Royaume d’Yser"
-      bloc: "Pacte de l’Égide"
+        Deeply anti-drone or UCAV focused. Invests heavily in specialized fighters to shoot down drones. Highly skilled in VTOL.
+        Maintains a policy of neutrality and arbitration. Historically, conflicts not involving Doria have their treaties signed in Doria.
+  Major_Nations:
+    - name: "Kingdom of Yser"
+      bloc: "Aegis Pact"
       markdown: |
-        Allié de Doria. Ils misent beaucoup sur l’aéronaval, étant le pays avec le plus de porte-avions.
-        Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria et Solana.
-  Nations_Mineures:
-    - name: "Chancellerie de Gathersted"
+        Ally of Doria. They focus heavily on naval aviation, being the country with the most aircraft carriers.
+        They do not produce their own aircraft and purchase from Doria and Solana.
+  Minor_Nations:
+    - name: "Chancellery of Gathersted"
       bloc: ""
       markdown: |
-        Allié de Doria et Yser. Ils ne produisent pas d’avions eux-mêmes et achètent chez Doria.
+        Ally of Doria and Yser. They do not produce their own aircraft and purchase from Doria.
 
 Meridiona:
-  Grandes_Puissances:
-    - name: "République de Solana"
-      bloc: "Pacte de l’Égide"
+  Great_Powers:
+    - name: "Republic of Solana"
+      bloc: "Aegis Pact"
       markdown: |
-        Possède les Iles Solaires, un archipel dont la roche détient une forte dose d’énergie.
-        Un seul morceau peut suffire à alimenter une ville pendant 3 ans.
-        Très orienté qualité, recherche et découvertes. Favorise la création d’aéronefs innovants.
-  Nations_Majeures:
-    - name: "Grand Duché de Cevenn"
-      bloc: "Pacte de l’Égide"
+        Owns the Solar Islands, an archipelago whose rock contains a high concentration of energy.
+        A single piece can power a city for 3 years.
+        Strongly focused on quality, research, and discoveries. Favors the creation of innovative aircraft.
+  Major_Nations:
+    - name: "Grand Duchy of Cevenn"
+      bloc: "Aegis Pact"
       markdown: |
-        Allié historique de Solana. Préfère garder de bonnes relations pour accéder à leur marché.
-        Ne produit pas d’avions eux-mêmes et achète chez Doria et Solana.
-  Nations_Mineures:
-    - name: "Grand Duché d’Albro"
-      bloc: "Pacte de l’Égide"
+        Historic ally of Solana. Prefers to maintain good relations to access their market.
+        Does not produce aircraft themselves and purchases from Doria and Solana.
+  Minor_Nations:
+    - name: "Grand Duchy of Albro"
+      bloc: "Aegis Pact"
       markdown: |
-        Allié de Solana. Ne produit pas d’avions eux-mêmes et achète chez Solana.
-    - name: "République de Briden"
-      bloc: "Pacte de l’Égide"
+        Ally of Solana. Does not produce aircraft themselves and purchases from Solana.
+    - name: "Republic of Briden"
+      bloc: "Aegis Pact"
       markdown: |
-        Allié de Solana. Ne produit pas d’avions eux-mêmes et achète chez Solana.
+        Ally of Solana. Does not produce aircraft themselves and purchases from Solana.
     - name: "Kirev"
-      bloc: "Bloc Azurien"
+      bloc: "Azurian Bloc"
       markdown: |
-        Dictature impérialiste vassale d’Azura. Ne produit pas d’avions eux-mêmes et achète chez Azura.
-    - name: "Territoire Libre de Nemea"
+        Imperialist dictatorship vassal to Azura. Does not produce aircraft themselves and purchases from Azura.
+    - name: "Free Territory of Nemea"
       bloc: ""
       markdown: |
-        Île polaire en marge des gouvernements. Sans ressources pertinentes.
-        Base du groupe Chimère, considéré comme terroriste par la majorité (sauf Doria et Isorum).
-        Ce groupe intervient seulement lors de guerres pour y mettre fin.
-        Ne produit pas d’avions eux-mêmes et en vole parfois.
+        Polar island outside government control. Without significant resources.
+        Base of the Chimera group, considered a terrorist organization by most (except Doria and Isorum).
+        This group intervenes only during wars to bring them to an end.
+        Does not produce aircraft themselves and sometimes steals them.
 
 Nordine:
-  Nations_Mineures:
-    - name: "République d’Argellis"
-      bloc: "Pacte de l’Égide"
+  Minor_Nations:
+    - name: "Republic of Argellis"
+      bloc: "Aegis Pact"
       markdown: |
-        Territoire avec de riches ressources souterraines.
-        Ne produit pas d’avions eux-mêmes et achète chez Doria et Solana.
-    - name: "Chancellerie d’Arkhellia"
+        Territory with rich underground resources.
+        Does not produce aircraft themselves and purchases from Doria and Solana.
+    - name: "Chancellery of Arkhellia"
       bloc: ""
       markdown: |
-        Ne produit pas d’avions eux-mêmes et achète chez le moins cher.
+        Does not produce aircraft themselves and buys from whoever is cheapest.
 
 Esterient:
-  Grandes_Puissances:
-    - name: "Fédération de Talan"
-      bloc: "Bloc Talanais"
+  Great_Powers:
+    - name: "Federation of Talan"
+      bloc: "Talan Bloc"
       markdown: |
-        Seule nation produisant encore des bombardiers classiques.
-        Les autres pays préfèrent les jets Air-Sol ou Air-Air/Sol.
-        Ses alliés achètent parfois des bombardiers selon les besoins.
-    - name: "Empire d’Azura"
-      bloc: "Bloc Azurien"
+        The only nation still producing traditional bombers.
+        Other countries prefer Air-to-Ground or Air-to-Air/Ground jets.
+        Its allies sometimes buy bombers depending on needs.
+    - name: "Empire of Azura"
+      bloc: "Azurian Bloc"
       markdown: |
-        Investit fortement dans l’automatisation des armements.
-        Réputé pour blâmer systématiquement les autres.
-        Doctrine de guerre par surcharge et supériorité numérique.
-  Nations_Majeures:
-    - name: "Union de Jespia"
+        Invests heavily in weapons automation.
+        Known for systematically blaming others.
+        Doctrine based on overload warfare and numerical superiority.
+  Major_Nations:
+    - name: "Union of Jespia"
       bloc: ""
       markdown: |
-        Incompétents en aéronautique, ils compensent par une flotte navale destructrice.
-        Ne produisent pas d’avions eux-mêmes et achètent chez Azura.
-  Nations_Mineures:
-    - name: "Royaume de Zakess"
-      bloc: "Bloc Talanais"
+        Incompetent in aeronautics, they compensate with a destructive naval fleet.
+        Do not produce aircraft themselves and buy from Azura.
+  Minor_Nations:
+    - name: "Kingdom of Zakess"
+      bloc: "Talan Bloc"
       markdown: |
-        Allié de Talan. Ne produit pas d’avions eux-mêmes et achète chez Talan.
-    - name: "Empire d’Okharen"
-      bloc: "Bloc Talanais"
+        Ally of Talan. Does not produce aircraft themselves and buys from Talan.
+    - name: "Empire of Okharen"
+      bloc: "Talan Bloc"
       markdown: |
-        Allié de Talan. Ne produit pas d’avions eux-mêmes et achète chez Talan.
-    - name: "Duché d’Andeigen"
-      bloc: "Bloc Talanais"
+        Ally of Talan. Does not produce aircraft themselves and buys from Talan.
+    - name: "Duchy of Andeigen"
+      bloc: "Talan Bloc"
       markdown: |
-        Ne produit pas d’avions eux-mêmes et achète chez Talan.
-    - name: "Royaume de Konradia"
-      bloc: "Bloc Azurien"
+        Does not produce aircraft themselves and buys from Talan.
+    - name: "Kingdom of Konradia"
+      bloc: "Azurian Bloc"
       markdown: |
-        Allié historique d’Azura. En déclin depuis un certain temps.
-        Ne produit pas d’avions eux-mêmes et achète chez Azura.
-    - name: "Duché d’Ansium"
-      bloc: "Bloc Azurien"
+        Historic ally of Azura. In decline for some time.
+        Does not produce aircraft themselves and buys from Azura.
+    - name: "Duchy of Ansium"
+      bloc: "Azurian Bloc"
       markdown: |
-        Fréquemment en guerre civile, mais n’a jamais totalement sombré.
-        Sa stabilité est indirectement soutenue par Azura.
-        Ne produit pas d’avions eux-mêmes et achète chez Azura.
-    - name: "Fédération de Cania"
-      bloc: "Bloc Azurien"
+        Frequently in civil war, but has never completely fallen.
+        Its stability is indirectly supported by Azura.
+        Does not produce aircraft themselves and buys from Azura.
+    - name: "Federation of Cania"
+      bloc: "Azurian Bloc"
       markdown: |
-        Ne produit pas d’avions eux-mêmes et achète chez Azura.
-    - name: "Confédération de Sylvaria"
+        Does not produce aircraft themselves and buys from Azura.
+    - name: "Confederation of Sylvaria"
       bloc: ""
       markdown: |
-        N’a participé à aucun conflit depuis environ 300 ans.
-        Considérée comme passive et insignifiante par beaucoup.
-        Ne possède pas d’aviation officielle, mais emploie des mercenaires très compétents en vol.
-    - name: "Duché d’Isorum"
+        Has not participated in any conflict for about 300 years.
+        Considered passive and insignificant by many.
+        Has no official air force but employs highly skilled mercenary pilots.
+    - name: "Duchy of Isorum"
       bloc: ""
       markdown: |
-        Produit beaucoup d’armements, revendus à tout acheteur intéressé.
-        Ne produit pas d’avions eux-mêmes et achète chez le moins cher.
-    
+        Produces a lot of armaments, resold to any interested buyer.
+        Does not produce aircraft themselves and buys from whoever is cheapest.
